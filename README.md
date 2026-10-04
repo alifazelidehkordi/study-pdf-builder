@@ -1,6 +1,6 @@
 # Study PDF Builder
 
-A reusable, local Python renderer adapted from the code used to make your linked Anatomy II study guide. It produces designed question-bank PDFs from structured JSON, with no API key, network request, or LLM required.
+A reusable, local Python renderer adapted from the code used to make your linked study guide. It produces designed question-bank PDFs from structured JSON, with no API key, network request, or LLM required.
 
 The bundled `examples/anatomy.json` reproduces the **content** of the final 206-question, 56-category bank. The portable renderer uses the same visual settings, but pagination can change because it is no longer hardcoded to one document.
 
