@@ -1,0 +1,295 @@
+{
+  "summary": {
+    "incoming_questions": 30,
+    "equivalent_duplicates_skipped": 3,
+    "added_questions": 27,
+    "added_new_coverage": 7,
+    "added_mcq_variants": 20,
+    "previous_total": 179,
+    "updated_total": 206,
+    "categories": 56,
+    "statuses": {
+      "STUDY ANSWER": 142,
+      "SOURCE KEY": 60,
+      "SOURCE RECALL": 2,
+      "UNRESOLVED": 2
+    },
+    "duplicate_source_ids": [
+      "MCQ-02",
+      "MCQ-04",
+      "MCQ-11"
+    ]
+  },
+  "decisions": [
+    {
+      "incoming_id": "MCQ-01",
+      "incoming_question": 1,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-19",
+      "category": "Esophagus",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 2
+    },
+    {
+      "incoming_id": "MCQ-02",
+      "incoming_question": 2,
+      "action": "SKIPPED — equivalent duplicate",
+      "existing_id": "E18-17",
+      "category": "Gallbladder",
+      "reason": "Same gallbladder-fossa question and the same five lobe-pair options, reordered.",
+      "incoming_page": 3
+    },
+    {
+      "incoming_id": "MCQ-03",
+      "incoming_question": 3,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-28",
+      "category": "Liver",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 3
+    },
+    {
+      "incoming_id": "MCQ-04",
+      "incoming_question": 4,
+      "action": "SKIPPED — equivalent duplicate",
+      "existing_id": "F17-17",
+      "category": "Stomach",
+      "reason": "Same stomach arterial-supply question and equivalent five options; option order and minor phrasing differ.",
+      "incoming_page": 4
+    },
+    {
+      "incoming_id": "MCQ-05",
+      "incoming_question": 5,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-21",
+      "category": "Omental Bursa",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 4
+    },
+    {
+      "incoming_id": "MCQ-06",
+      "incoming_question": 6,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-16",
+      "category": "Large Intestine/Colon",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 5
+    },
+    {
+      "incoming_id": "MCQ-07",
+      "incoming_question": 7,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Cerebellar/Spinocerebellar Pathways",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 5
+    },
+    {
+      "incoming_id": "MCQ-08",
+      "incoming_question": 8,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "E18-07",
+      "category": "Testis",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 6
+    },
+    {
+      "incoming_id": "MCQ-09",
+      "incoming_question": 9,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-22",
+      "category": "Testis",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 6
+    },
+    {
+      "incoming_id": "MCQ-10",
+      "incoming_question": 10,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "E18-30",
+      "category": "Adrenal/Suprarenal Gland",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 7
+    },
+    {
+      "incoming_id": "MCQ-11",
+      "incoming_question": 11,
+      "action": "SKIPPED — equivalent duplicate",
+      "existing_id": "F17-12",
+      "category": "Serotonergic Nuclei",
+      "reason": "Same serotonin-source question and the same five structures; spelling/order differ.",
+      "incoming_page": 7
+    },
+    {
+      "incoming_id": "MCQ-12",
+      "incoming_question": 12,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Liver",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 8
+    },
+    {
+      "incoming_id": "MCQ-13",
+      "incoming_question": 13,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "E18-12",
+      "category": "Lung",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 8
+    },
+    {
+      "incoming_id": "MCQ-14",
+      "incoming_question": 14,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-09",
+      "category": "Facial Nerve (CN VII)",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 9
+    },
+    {
+      "incoming_id": "MCQ-15",
+      "incoming_question": 15,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-08",
+      "category": "Larynx",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 9
+    },
+    {
+      "incoming_id": "MCQ-16",
+      "incoming_question": 16,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-07",
+      "category": "Facial Nerve (CN VII)",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 10
+    },
+    {
+      "incoming_id": "MCQ-17",
+      "incoming_question": 17,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Nasal Cavity and Paranasal Sinuses",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 10
+    },
+    {
+      "incoming_id": "MCQ-18",
+      "incoming_question": 18,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-04",
+      "category": "Vagus Nerve",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 11
+    },
+    {
+      "incoming_id": "MCQ-19",
+      "incoming_question": 19,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Ovary",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 11
+    },
+    {
+      "incoming_id": "MCQ-20",
+      "incoming_question": 20,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Adrenal/Suprarenal Gland",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 12
+    },
+    {
+      "incoming_id": "MCQ-21",
+      "incoming_question": 21,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "M17-15",
+      "category": "Basal Ganglia and Striatal Connections",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 12
+    },
+    {
+      "incoming_id": "MCQ-22",
+      "incoming_question": 22,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "E19-07",
+      "category": "Visual System",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 13
+    },
+    {
+      "incoming_id": "MCQ-23",
+      "incoming_question": 23,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "E18-18",
+      "category": "Cerebral Cortex/Brain",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 13
+    },
+    {
+      "incoming_id": "MCQ-24",
+      "incoming_question": 24,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "M17-12",
+      "category": "Lung",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 14
+    },
+    {
+      "incoming_id": "MCQ-25",
+      "incoming_question": 25,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "M17-06",
+      "category": "Uterus",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 14
+    },
+    {
+      "incoming_id": "MCQ-26",
+      "incoming_question": 26,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Ventricular System",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 15
+    },
+    {
+      "incoming_id": "MCQ-27",
+      "incoming_question": 27,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-02",
+      "category": "Spinal Cord and Ascending/Descending Pathways",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 15
+    },
+    {
+      "incoming_id": "MCQ-28",
+      "incoming_question": 28,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "M17-05",
+      "category": "Ureter",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 16
+    },
+    {
+      "incoming_id": "MCQ-29",
+      "incoming_question": 29,
+      "action": "ADDED — MCQ VARIANT",
+      "existing_id": "F17-27",
+      "category": "Kidney",
+      "reason": "Different answer choices and/or a new MCQ form of an existing recall prompt.",
+      "incoming_page": 16
+    },
+    {
+      "incoming_id": "MCQ-30",
+      "incoming_question": 30,
+      "action": "ADDED — NEW COVERAGE",
+      "existing_id": "",
+      "category": "Midbrain/Mesencephalic Nuclei",
+      "reason": "New tested detail not represented as a matching question.",
+      "incoming_page": 17
+    }
+  ]
+}

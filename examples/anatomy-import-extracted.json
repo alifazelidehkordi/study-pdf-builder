@@ -1,0 +1,902 @@
+[
+  {
+    "q": 1,
+    "prompt": "Indicate the correct statement regarding anatomic relationships of the esophagus:",
+    "options": [
+      [
+        "A",
+        "It begins at the level of the thyroid cartilage"
+      ],
+      [
+        "B",
+        "In the superior mediastinum, the left brachiocephalic vein constricts the esophagus"
+      ],
+      [
+        "C",
+        "It passes through the diaphragm at the T8 level"
+      ],
+      [
+        "D",
+        "In the posterior mediastinum, it passes anterior to the aorta before crossing the diaphragm"
+      ],
+      [
+        "E",
+        "In the posterior mediastinum, it lies posterior to the right atrium"
+      ]
+    ],
+    "answer_letter": "D",
+    "answer_text": "In the posterior mediastinum, it passes anterior to the aorta before crossing the diaphragm",
+    "rationale": "The oesophagus passes through the diaphragm at T10 and, low in the posterior mediastinum, sweeps anterior to the descending aorta. It lies posterior to the left atrium, not the right atrium.",
+    "page": 2
+  },
+  {
+    "q": 2,
+    "prompt": "The gallbladder lies in its fossa between which two anatomic lobes of the liver?",
+    "options": [
+      [
+        "A",
+        "Quadrate and left lobes"
+      ],
+      [
+        "B",
+        "Quadrate and caudate lobes"
+      ],
+      [
+        "C",
+        "Caudate and right lobes"
+      ],
+      [
+        "D",
+        "Caudate and left lobes"
+      ],
+      [
+        "E",
+        "Right and quadrate lobes"
+      ]
+    ],
+    "answer_letter": "E",
+    "answer_text": "Right and quadrate lobes",
+    "rationale": "The gallbladder fossa lies on the visceral surface between the right lobe and the quadrate lobe.",
+    "page": 3
+  },
+  {
+    "q": 3,
+    "prompt": "Which of the following statements concerning liver sinusoids is true?",
+    "options": [
+      [
+        "A",
+        "They are continuous with bile canaliculi"
+      ],
+      [
+        "B",
+        "They are surrounded by a continuous basal lamina"
+      ],
+      [
+        "C",
+        "They deliver blood to the central vein"
+      ],
+      [
+        "D",
+        "They are lined by non-fenestrated endothelial cells"
+      ],
+      [
+        "E",
+        "They perfuse only hepatocytes of the peripheral zone"
+      ]
+    ],
+    "answer_letter": "C",
+    "answer_text": "They deliver blood to the central vein",
+    "rationale": "Hepatic sinusoids carry mixed portal and arterial blood toward the central vein. Their endothelium is fenestrated and they do not have a continuous basal lamina.",
+    "page": 3
+  },
+  {
+    "q": 4,
+    "prompt": "Which statement best describes the blood supply of the stomach?",
+    "options": [
+      [
+        "A",
+        "It is derived entirely from the superior mesenteric artery"
+      ],
+      [
+        "B",
+        "The gastroepiploic arteries supply the lesser curvature"
+      ],
+      [
+        "C",
+        "The right gastric artery is a direct branch of the coeliac trunk"
+      ],
+      [
+        "D",
+        "The short gastric arteries arise from the splenic artery"
+      ],
+      [
+        "E",
+        "The left gastroepiploic artery arises directly from the coeliac trunk"
+      ]
+    ],
+    "answer_letter": "D",
+    "answer_text": "The short gastric arteries arise from the splenic artery",
+    "rationale": "The short gastric arteries arise from the splenic artery and supply the fundus of the stomach.",
+    "page": 4
+  },
+  {
+    "q": 5,
+    "prompt": "Which statement about the borders of the epiploic foramen is correct?",
+    "options": [
+      [
+        "A",
+        "The common bile duct is contained within the anterior border"
+      ],
+      [
+        "B",
+        "The second part of the duodenum forms the inferior border"
+      ],
+      [
+        "C",
+        "The quadrate lobe of the liver forms the superior border"
+      ],
+      [
+        "D",
+        "The hepatic vein forms the posterior border"
+      ],
+      [
+        "E",
+        "Not visible in the uploaded photograph"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "The common bile duct is contained within the anterior border",
+    "rationale": "The anterior boundary of the epiploic foramen is the hepatoduodenal ligament, which contains the portal triad including the common bile duct.",
+    "page": 4
+  },
+  {
+    "q": 6,
+    "prompt": "Which of the following statements best describes the colon?",
+    "options": [
+      [
+        "A",
+        "The majority is derived from the primitive hindgut"
+      ],
+      [
+        "B",
+        "It is usually invested with peritoneum on all sides"
+      ],
+      [
+        "C",
+        "The ascending and descending colon are primarily retroperitoneal"
+      ],
+      [
+        "D",
+        "The appendices epiploicae are composed of lymphoid tissue"
+      ],
+      [
+        "E",
+        "Its three taenia are formed by the outer longitudinal layer of the muscularis externa"
+      ]
+    ],
+    "answer_letter": "E",
+    "answer_text": "Its three taenia are formed by the outer longitudinal layer of the muscularis externa",
+    "rationale": "The three taeniae coli are condensations of the outer longitudinal layer of the muscularis externa. The ascending and descending colon are secondarily, not primarily, retroperitoneal.",
+    "page": 5
+  },
+  {
+    "q": 7,
+    "prompt": "Which statement about the dorsal spinocerebellar tract is accurate?",
+    "options": [
+      [
+        "A",
+        "It lies lateral to the lateral corticospinal tract"
+      ],
+      [
+        "B",
+        "It begins at about the level of the second or third lumbar segment"
+      ],
+      [
+        "C",
+        "It passes through the inferior cerebellar peduncle"
+      ],
+      [
+        "D",
+        "It terminates ipsilaterally in the cerebellar vermis"
+      ],
+      [
+        "E",
+        "All of the above"
+      ]
+    ],
+    "answer_letter": "E",
+    "answer_text": "All of the above",
+    "rationale": "All four statements are standard features of the dorsal spinocerebellar tract: it lies lateral to the lateral corticospinal tract, begins around L2-L3, enters through the inferior cerebellar peduncle, and terminates ipsilaterally in the vermis/paravermis.",
+    "page": 5
+  },
+  {
+    "q": 8,
+    "prompt": "Which one of the following secretions is attributed to the Sertoli cells?",
+    "options": [
+      [
+        "A",
+        "Transferrin"
+      ],
+      [
+        "B",
+        "Follicle-stimulating hormone"
+      ],
+      [
+        "C",
+        "Testosterone"
+      ],
+      [
+        "D",
+        "Luteinizing hormone"
+      ],
+      [
+        "E",
+        "Interstitial cell-stimulating hormone"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "Transferrin",
+    "rationale": "Sertoli cells synthesize substances including transferrin, inhibin, androgen-binding protein and anti-Mullerian hormone. Testosterone is produced by Leydig cells.",
+    "page": 6
+  },
+  {
+    "q": 9,
+    "prompt": "Cancer of the testis most likely metastasizes first to which of the following lymph nodes?",
+    "options": [
+      [
+        "A",
+        "Deep inguinal"
+      ],
+      [
+        "B",
+        "Lumbar"
+      ],
+      [
+        "C",
+        "Superficial inguinal"
+      ],
+      [
+        "D",
+        "External iliac"
+      ],
+      [
+        "E",
+        "Internal iliac"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "Lumbar",
+    "rationale": "Testicular lymph follows the gonadal vessels to the lumbar (para-aortic) lymph nodes.",
+    "page": 6
+  },
+  {
+    "q": 10,
+    "prompt": "The adrenal gland:",
+    "options": [
+      [
+        "A",
+        "Secretes cortisol from the zona glomerulosa of the cortex"
+      ],
+      [
+        "B",
+        "Is supplied by branches of the inferior phrenic artery, the renal artery, and the aorta"
+      ],
+      [
+        "C",
+        "Is drained by the suprarenal vein reaching the inferior vena cava on the left and the renal vein on the right"
+      ],
+      [
+        "D",
+        "A + B"
+      ],
+      [
+        "E",
+        "A + B + C"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "Is supplied by branches of the inferior phrenic artery, the renal artery, and the aorta",
+    "rationale": "The suprarenal gland receives superior, middle and inferior suprarenal arteries from the inferior phrenic artery, aorta and renal artery. Cortisol is mainly from zona fasciculata, and venous drainage is right to IVC and left to left renal vein.",
+    "page": 7
+  },
+  {
+    "q": 11,
+    "prompt": "Which of the following is the major source of serotonin in the CNS?",
+    "options": [
+      [
+        "A",
+        "Basal nucleus"
+      ],
+      [
+        "B",
+        "Dorsal column nuclei"
+      ],
+      [
+        "C",
+        "Locus ceruleus"
+      ],
+      [
+        "D",
+        "Raphe nuclei"
+      ],
+      [
+        "E",
+        "Substantia nigra compacta"
+      ]
+    ],
+    "answer_letter": "D",
+    "answer_text": "Raphe nuclei",
+    "rationale": "The raphe nuclei are the major serotonergic nuclei of the CNS.",
+    "page": 7
+  },
+  {
+    "q": 12,
+    "prompt": "The structure that separates the quadrate lobe from the left lobe of the liver is the:",
+    "options": [
+      [
+        "A",
+        "Ligamentum venosum"
+      ],
+      [
+        "B",
+        "Inferior vena cava"
+      ],
+      [
+        "C",
+        "Falciform ligament"
+      ],
+      [
+        "D",
+        "Round ligament (ligamentum teres)"
+      ],
+      [
+        "E",
+        "Portal vein"
+      ]
+    ],
+    "answer_letter": "D",
+    "answer_text": "Round ligament (ligamentum teres)",
+    "rationale": "On the visceral surface, the quadrate lobe is separated from the left lobe by the fissure containing the round ligament (ligamentum teres).",
+    "page": 8
+  },
+  {
+    "q": 13,
+    "prompt": "The right lung:",
+    "options": [
+      [
+        "A",
+        "Has an impression of the azygos arch on its medial surface"
+      ],
+      [
+        "B",
+        "Has a horizontal fissure separating the lower from the middle lobe"
+      ],
+      [
+        "C",
+        "Is in contact with the pericardium overlying the right ventricle"
+      ],
+      [
+        "D",
+        "A + B"
+      ],
+      [
+        "E",
+        "A + B + C"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "Has an impression of the azygos arch on its medial surface",
+    "rationale": "The right lung has a groove/impression for the arch of the azygos vein. Its horizontal fissure separates upper from middle lobe, and its major cardiac impression is related to the right atrium.",
+    "page": 8
+  },
+  {
+    "q": 14,
+    "prompt": "The nerve supplying the facial muscles innervates also the following muscle:",
+    "options": [
+      [
+        "A",
+        "Stylohyoid"
+      ],
+      [
+        "B",
+        "Levator palpebrae superioris"
+      ],
+      [
+        "C",
+        "Levator veli palatini"
+      ],
+      [
+        "D",
+        "Anterior belly of digastric"
+      ],
+      [
+        "E",
+        "Inferior belly of omohyoid"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "Stylohyoid",
+    "rationale": "The facial nerve supplies the muscles of facial expression and also the stylohyoid, posterior belly of digastric and stapedius.",
+    "page": 9
+  },
+  {
+    "q": 15,
+    "prompt": "Which of the following nerves is responsible for carrying the sensation of pain from the laryngeal vestibule?",
+    "options": [
+      [
+        "A",
+        "Recurrent laryngeal nerve"
+      ],
+      [
+        "B",
+        "Superior laryngeal nerve"
+      ],
+      [
+        "C",
+        "Spinal accessory nerve"
+      ],
+      [
+        "D",
+        "Hypoglossal nerve"
+      ],
+      [
+        "E",
+        "Glossopharyngeal nerve"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "Superior laryngeal nerve",
+    "rationale": "Sensation from the laryngeal mucosa above the vocal folds, including the vestibule, is carried mainly by the internal branch of the superior laryngeal nerve.",
+    "page": 9
+  },
+  {
+    "q": 16,
+    "prompt": "The neurons providing the sensation of taste in the anterior 2/3 of the tongue are found in which of the following?",
+    "options": [
+      [
+        "A",
+        "Geniculate ganglion"
+      ],
+      [
+        "B",
+        "Pterygopalatine ganglion"
+      ],
+      [
+        "C",
+        "Submandibular ganglion"
+      ],
+      [
+        "D",
+        "Otic ganglion"
+      ],
+      [
+        "E",
+        "Trigeminal ganglion"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "Geniculate ganglion",
+    "rationale": "Taste from the anterior two-thirds of the tongue travels in the chorda tympani; the primary sensory neuron cell bodies are in the geniculate ganglion.",
+    "page": 10
+  },
+  {
+    "q": 17,
+    "prompt": "Which of the following drains into the inferior meatus of the nasal cavity?",
+    "options": [
+      [
+        "A",
+        "Frontal sinus"
+      ],
+      [
+        "B",
+        "Ethmoid sinus"
+      ],
+      [
+        "C",
+        "Sphenoid sinus"
+      ],
+      [
+        "D",
+        "Nasolacrimal duct"
+      ],
+      [
+        "E",
+        "Maxillary sinus"
+      ]
+    ],
+    "answer_letter": "D",
+    "answer_text": "Nasolacrimal duct",
+    "rationale": "The nasolacrimal duct opens into the inferior nasal meatus.",
+    "page": 10
+  },
+  {
+    "q": 18,
+    "prompt": "In the thorax, the right vagus:",
+    "options": [
+      [
+        "A",
+        "Lies anterior to the root of the lung"
+      ],
+      [
+        "B",
+        "Gives rise to the right recurrent laryngeal nerve"
+      ],
+      [
+        "C",
+        "Contributes to the formation of the oesophageal plexus"
+      ],
+      [
+        "D",
+        "A + B"
+      ],
+      [
+        "E",
+        "A + B + C"
+      ]
+    ],
+    "answer_letter": "C",
+    "answer_text": "Contributes to the formation of the oesophageal plexus",
+    "rationale": "In the thorax the right vagus passes posterior to the lung root and contributes to the oesophageal plexus. The right recurrent laryngeal nerve hooks around the right subclavian artery near the thoracic inlet/root of the neck.",
+    "page": 11
+  },
+  {
+    "q": 19,
+    "prompt": "Which of the following statements concerning antral ovarian follicles is true?",
+    "options": [
+      [
+        "A",
+        "Their continued maturation requires FSH"
+      ],
+      [
+        "B",
+        "They lack liquor folliculi"
+      ],
+      [
+        "C",
+        "They contain a secondary oocyte"
+      ],
+      [
+        "D",
+        "They lack a theca externa"
+      ],
+      [
+        "E",
+        "They have a single layer of cuboidal follicular cells surrounding the oocyte"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "Their continued maturation requires FSH",
+    "rationale": "Antral follicle growth and continued maturation depend on FSH. Antral follicles contain liquor folliculi, multiple granulosa layers and theca interna/externa.",
+    "page": 11
+  },
+  {
+    "q": 20,
+    "prompt": "Nerve terminals that synapse in the adrenal medulla utilize which neurotransmitter?",
+    "options": [
+      [
+        "A",
+        "Acetylcholine"
+      ],
+      [
+        "B",
+        "Adrenaline"
+      ],
+      [
+        "C",
+        "Noradrenaline"
+      ],
+      [
+        "D",
+        "GABA"
+      ],
+      [
+        "E",
+        "Dopamine"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "Acetylcholine",
+    "rationale": "Preganglionic sympathetic fibres synapsing on adrenal medullary chromaffin cells release acetylcholine.",
+    "page": 12
+  },
+  {
+    "q": 21,
+    "prompt": "Which of the following statements concerning the basal nuclei is true?",
+    "options": [
+      [
+        "A",
+        "The caudate nucleus is not connected to the lentiform nucleus"
+      ],
+      [
+        "B",
+        "The corpus striatum receives fibers from the compact part of the substantia nigra"
+      ],
+      [
+        "C",
+        "The lentiform nucleus is separated from the thalamus by the external capsule"
+      ],
+      [
+        "D",
+        "The lentiform nucleus is separated from the claustrum by the internal capsule"
+      ],
+      [
+        "E",
+        "The tail of the caudate nucleus lies in the occipital lobe"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "The corpus striatum receives fibers from the compact part of the substantia nigra",
+    "rationale": "The striatum receives the nigrostriatal dopaminergic projection from substantia nigra pars compacta.",
+    "page": 12
+  },
+  {
+    "q": 22,
+    "prompt": "The fovea of the retina contains:",
+    "options": [
+      [
+        "A",
+        "Rods as photoreceptors and blood vessels"
+      ],
+      [
+        "B",
+        "Cones as photoreceptors and no blood vessels"
+      ],
+      [
+        "C",
+        "Cones as photoreceptors and blood vessels"
+      ],
+      [
+        "D",
+        "Rods and cones but no blood vessels"
+      ],
+      [
+        "E",
+        "Rods and cones and blood vessels"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "Cones as photoreceptors and no blood vessels",
+    "rationale": "The fovea is specialized for high-acuity vision: it contains cones and is avascular.",
+    "page": 13
+  },
+  {
+    "q": 23,
+    "prompt": "Which of the following statements regarding the cerebral cortex is true?",
+    "options": [
+      [
+        "A",
+        "The primary motor cortex lies in the frontal lobe"
+      ],
+      [
+        "B",
+        "The primary somatosensory cortex lies in the frontal lobe"
+      ],
+      [
+        "C",
+        "The primary auditory cortex lies in the parietal lobe"
+      ],
+      [
+        "D",
+        "The primary visual cortex lies in the frontal lobe"
+      ],
+      [
+        "E",
+        "Broca's speech area lies in the parietal lobe"
+      ]
+    ],
+    "answer_letter": "A",
+    "answer_text": "The primary motor cortex lies in the frontal lobe",
+    "rationale": "The primary motor cortex is the precentral gyrus of the frontal lobe.",
+    "page": 13
+  },
+  {
+    "q": 24,
+    "prompt": "Which of the following statements accurately describes relations at the left lung hilum?",
+    "options": [
+      [
+        "A",
+        "The left pulmonary artery is the most anterior structure"
+      ],
+      [
+        "B",
+        "The left bronchus passes under the aortic arch"
+      ],
+      [
+        "C",
+        "The left vagus nerve passes anterior to the hilum"
+      ],
+      [
+        "D",
+        "Pulmonary veins are posterior and inferior"
+      ],
+      [
+        "E",
+        "The left recurrent laryngeal nerve loops around the left pulmonary artery"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "The left bronchus passes under the aortic arch",
+    "rationale": "At the left hilum the pulmonary artery lies superior to the bronchus, and the left main bronchus passes beneath the aortic arch. The vagus is posterior to the root and pulmonary veins are mainly anterior/inferior.",
+    "page": 14
+  },
+  {
+    "q": 25,
+    "prompt": "Which of the following statements best describes the uterine cervix?",
+    "options": [
+      [
+        "A",
+        "In a normally anteflexed uterus, the cervix is tilted posteriorly"
+      ],
+      [
+        "B",
+        "It makes up the inferior third of the uterus"
+      ],
+      [
+        "C",
+        "Vaginal fornices surround its supravaginal part"
+      ],
+      [
+        "D",
+        "It is the attachment site for the round ligament"
+      ],
+      [
+        "E",
+        "It communicates with the uterine cavity through the external os"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "It makes up the inferior third of the uterus",
+    "rationale": "The cervix forms the lower third of the uterus. The vaginal fornices surround its vaginal part, and the uterine cavity communicates with the cervical canal through the internal os.",
+    "page": 14
+  },
+  {
+    "q": 26,
+    "prompt": "Regarding the ventricular system and cerebrospinal fluid (CSF) production, which of the following statements is true?",
+    "options": [
+      [
+        "A",
+        "CSF is exclusively produced in the choroid plexi of the lateral ventricles"
+      ],
+      [
+        "B",
+        "CSF passes from the 3rd to the 4th ventricle via the interventricular foramen"
+      ],
+      [
+        "C",
+        "The 4th ventricle communicates directly with the subarachnoid space"
+      ],
+      [
+        "D",
+        "The total daily production of CSF is approximately 150 ml"
+      ],
+      [
+        "E",
+        "CSF is reabsorbed mainly through the arachnoid villi in the inferior sagittal sinus"
+      ]
+    ],
+    "answer_letter": "C",
+    "answer_text": "The 4th ventricle communicates directly with the subarachnoid space",
+    "rationale": "The fourth ventricle communicates directly with the subarachnoid space through the median and lateral apertures. CSF production is roughly 500 mL/day and reabsorption is mainly via arachnoid granulations into dural venous sinuses, especially the superior sagittal sinus.",
+    "page": 15
+  },
+  {
+    "q": 27,
+    "prompt": "Which statement about the tracts of the spinal cord is accurate?",
+    "options": [
+      [
+        "A",
+        "The majority of motor fibers descend in the anterior column of the cord"
+      ],
+      [
+        "B",
+        "The spinothalamic tract subserves pain sensation"
+      ],
+      [
+        "C",
+        "The gracile tract lies lateral to the cuneate tract"
+      ],
+      [
+        "D",
+        "The spinothalamic tract carries first-order sensory neurones"
+      ],
+      [
+        "E",
+        "The dorsal columns carry decussated fibers"
+      ]
+    ],
+    "answer_letter": "B",
+    "answer_text": "The spinothalamic tract subserves pain sensation",
+    "rationale": "The spinothalamic system carries pain and temperature. Its ascending fibres are second-order neurons after crossing in the spinal cord.",
+    "page": 15
+  },
+  {
+    "q": 28,
+    "prompt": "Which of the following statements accurately describes the relations of the ureter?",
+    "options": [
+      [
+        "A",
+        "It is crossed anteriorly by the gonadal vessels"
+      ],
+      [
+        "B",
+        "It crosses the brim of the pelvis at the bifurcation of the common iliac artery"
+      ],
+      [
+        "C",
+        "In females it passes under the uterine artery close to the cervix"
+      ],
+      [
+        "D",
+        "It enters the bladder at the posterolateral aspect of the trigone"
+      ],
+      [
+        "E",
+        "All of the above are correct"
+      ]
+    ],
+    "answer_letter": "E",
+    "answer_text": "All of the above are correct",
+    "rationale": "All listed relations are standard: gonadal vessels cross anteriorly, the ureter crosses the pelvic brim near the common iliac bifurcation, passes under the uterine artery near the cervix, and enters the bladder at a posterolateral angle of the trigone.",
+    "page": 16
+  },
+  {
+    "q": 29,
+    "prompt": "Which of the following statements concerning the structure of medullary rays in the kidney is true?",
+    "options": [
+      [
+        "A",
+        "They contain juxtaglomerular cells"
+      ],
+      [
+        "B",
+        "They contain proximal convoluted tubules"
+      ],
+      [
+        "C",
+        "They do not extend into the renal cortex"
+      ],
+      [
+        "D",
+        "They lie at the center of a renal lobule"
+      ],
+      [
+        "E",
+        "They contain thin limbs of the loops of Henle"
+      ]
+    ],
+    "answer_letter": "D",
+    "answer_text": "They lie at the center of a renal lobule",
+    "rationale": "A renal lobule is centered on a medullary ray. Medullary rays contain straight tubules and collecting ducts extending into the cortex, not renal corpuscles or convoluted tubules.",
+    "page": 16
+  },
+  {
+    "q": 30,
+    "prompt": "Which statement about the substantia nigra is accurate?",
+    "options": [
+      [
+        "A",
+        "The ventral part consists of pigmented neurons that contain neuromelanin granules"
+      ],
+      [
+        "B",
+        "The dorsal part contains mostly GABAergic neurons"
+      ],
+      [
+        "C",
+        "It is subdivided into a dorsal pars compacta and a ventral pars reticulata"
+      ],
+      [
+        "D",
+        "The ventral part contains mostly dopaminergic neurons"
+      ],
+      [
+        "E",
+        "All of the above"
+      ]
+    ],
+    "answer_letter": "C",
+    "answer_text": "It is subdivided into a dorsal pars compacta and a ventral pars reticulata",
+    "rationale": "The substantia nigra is divided into a dorsal pars compacta and ventral pars reticulata. Pars compacta contains pigmented dopaminergic neurons; pars reticulata is predominantly GABAergic.",
+    "page": 17
+  }
+]

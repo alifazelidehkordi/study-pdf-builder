@@ -1,0 +1,4874 @@
+{
+  "title": "Anatomy II",
+  "subtitle": "56-Topic Answered Study Guide",
+  "description": "Exam questions with precise topic placement, inline answers, original source IDs, supplied MCQ rationales and linked revision sections.",
+  "categories": [
+    {
+      "id": "topic-01",
+      "title": "Kidney",
+      "related": [
+        "topic-14",
+        "topic-02"
+      ],
+      "note": "Kidney now contains renal/nephron questions only. Ureter questions have their own adjacent category.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-02",
+      "title": "Ureter",
+      "related": [
+        "topic-01",
+        "topic-14"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-03",
+      "title": "Cerebellum",
+      "related": [
+        "topic-19"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-04",
+      "title": "Lung",
+      "related": [
+        "topic-08",
+        "topic-43",
+        "topic-05",
+        "topic-06"
+      ],
+      "note": "Lung now contains lung anatomy and relations. Pleura and breast lymphatics have separate adjacent categories.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-05",
+      "title": "Pleura",
+      "related": [
+        "topic-04"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-06",
+      "title": "Breast and Axillary Lymphatics",
+      "related": [
+        "topic-04"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-07",
+      "title": "Liver",
+      "related": [
+        "topic-52"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-08",
+      "title": "Trachea",
+      "related": [
+        "topic-41",
+        "topic-43"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-09",
+      "title": "Spinal Cord and Ascending/Descending Pathways",
+      "related": [
+        "topic-19",
+        "topic-42",
+        "topic-23"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-10",
+      "title": "Stomach",
+      "related": [
+        "topic-55",
+        "topic-30"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-11",
+      "title": "Testis",
+      "related": [
+        "topic-12"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-12",
+      "title": "Ovary",
+      "related": [
+        "topic-32"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-13",
+      "title": "Thyroid",
+      "related": [
+        "topic-39"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-14",
+      "title": "Urinary Bladder",
+      "related": [
+        "topic-01"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-15",
+      "title": "Pituitary Region and Cavernous Sinus",
+      "related": [
+        "topic-17",
+        "topic-46"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-16",
+      "title": "Esophagus",
+      "related": [
+        "topic-47"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-17",
+      "title": "Visual System",
+      "related": [
+        "topic-15",
+        "topic-23",
+        "topic-18"
+      ],
+      "note": "Visual pathway, retina, and eye-movement questions remain here. CN III lesion and fiber-type questions are placed under Oculomotor Nerve.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-18",
+      "title": "Oculomotor Nerve (CN III)",
+      "related": [
+        "topic-17",
+        "topic-15"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-19",
+      "title": "Cerebellar/Spinocerebellar Pathways",
+      "related": [
+        "topic-03",
+        "topic-09"
+      ],
+      "note": "General cerebellar pathways, nodular Purkinje-cell projections, and the imported dorsal spinocerebellar-tract MCQ. Existing related ascending-pathway questions are retained in their original sections.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-20",
+      "title": "Small Intestine/Duodenum",
+      "related": [
+        "topic-30",
+        "topic-21",
+        "topic-22"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-21",
+      "title": "Large Intestine/Colon",
+      "related": [
+        "topic-20",
+        "topic-22",
+        "topic-30"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-22",
+      "title": "Rectum",
+      "related": [
+        "topic-21",
+        "topic-33"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-23",
+      "title": "Thalamus",
+      "related": [
+        "topic-09",
+        "topic-17"
+      ],
+      "note": "",
+      "empty_note": "No standalone thalamus question was found. Related material: conscious sensory relay (RQ-13) and lateral geniculate relay (RQ-31). See the linked related topics."
+    },
+    {
+      "id": "topic-24",
+      "title": "Brain Stem",
+      "related": [
+        "topic-29",
+        "topic-56"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-25",
+      "title": "Trigeminal Nerve",
+      "related": [
+        "topic-27",
+        "topic-15"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-26",
+      "title": "Cerebral Arterial Anatomy",
+      "related": [
+        "topic-48"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-27",
+      "title": "Facial Nerve (CN VII)",
+      "related": [
+        "topic-45",
+        "topic-25"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-28",
+      "title": "Cross-Organ Hollow-Organ Histology",
+      "related": [
+        "topic-08",
+        "topic-20",
+        "topic-32",
+        "topic-43"
+      ],
+      "note": "",
+      "empty_note": "No standalone cross-organ hollow-organ histology question was found. Related organ-specific material remains under Trachea, Small Intestine/Duodenum, Uterus, and Respiratory Microanatomy/Tracheobronchial Tree."
+    },
+    {
+      "id": "topic-29",
+      "title": "Midbrain/Mesencephalic Nuclei",
+      "related": [
+        "topic-24"
+      ],
+      "note": "Includes the new substantia nigra structure question (MCQ-30). The original RQ-02 remains under Brain Stem because its supplied answer focuses on medulla.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-30",
+      "title": "Peritoneum",
+      "related": [
+        "topic-55",
+        "topic-20",
+        "topic-31"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-31",
+      "title": "Abdominal Topography and Transpyloric Plane",
+      "related": [
+        "topic-10",
+        "topic-40",
+        "topic-01",
+        "topic-30"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-32",
+      "title": "Uterus",
+      "related": [
+        "topic-12",
+        "topic-33"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-33",
+      "title": "Perineal Membrane and Perineal Pouches",
+      "related": [
+        "topic-14",
+        "topic-22",
+        "topic-32"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-34",
+      "title": "Carotid Sheath",
+      "related": [
+        "topic-47",
+        "topic-54",
+        "topic-35",
+        "topic-36",
+        "topic-37"
+      ],
+      "note": "",
+      "empty_note": "No carotid-sheath question was found in the supplied bank. No replacement question has been invented."
+    },
+    {
+      "id": "topic-35",
+      "title": "Parotid Gland and Duct",
+      "related": [
+        "topic-27",
+        "topic-54"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-36",
+      "title": "Tongue and Lingual Lymphatics",
+      "related": [
+        "topic-27",
+        "topic-54"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-37",
+      "title": "Nasal Cavity and Paranasal Sinuses",
+      "related": [
+        "topic-41"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-38",
+      "title": "General Organ/Digestive Histology",
+      "related": [
+        "topic-07",
+        "topic-20",
+        "topic-32"
+      ],
+      "note": "",
+      "empty_note": "No standalone general organ/digestive histology question was found. Related material remains under Liver, Small Intestine/Duodenum, and Uterus."
+    },
+    {
+      "id": "topic-39",
+      "title": "Hypothalamus",
+      "related": [
+        "topic-13",
+        "topic-15"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-40",
+      "title": "Pancreas",
+      "related": [
+        "topic-20",
+        "topic-52"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-41",
+      "title": "Larynx",
+      "related": [
+        "topic-47",
+        "topic-08"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-42",
+      "title": "Dorsal Lemniscus",
+      "related": [
+        "topic-09"
+      ],
+      "note": "The original category label is retained. These items concern dorsal columns within the dorsal column–medial lemniscus system.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-43",
+      "title": "Respiratory Microanatomy/Tracheobronchial Tree",
+      "related": [
+        "topic-04",
+        "topic-08"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-44",
+      "title": "Adrenal/Suprarenal Gland",
+      "related": [
+        "topic-45"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-45",
+      "title": "Autonomic Nervous System",
+      "related": [
+        "topic-27",
+        "topic-47",
+        "topic-54"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-46",
+      "title": "Meninges",
+      "related": [
+        "topic-50",
+        "topic-15"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-47",
+      "title": "Vagus Nerve",
+      "related": [
+        "topic-41",
+        "topic-16"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-48",
+      "title": "Cerebral Cortex/Brain",
+      "related": [
+        "topic-26",
+        "topic-49"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-49",
+      "title": "Basal Ganglia and Striatal Connections",
+      "related": [
+        "topic-48",
+        "topic-24"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-50",
+      "title": "CSF",
+      "related": [
+        "topic-46",
+        "topic-51"
+      ],
+      "note": "CSF production, circulation, and absorption. Questions about ventricular connections and walls have a separate adjacent category.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-51",
+      "title": "Ventricular System",
+      "related": [
+        "topic-50",
+        "topic-39",
+        "topic-24"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-52",
+      "title": "Gallbladder",
+      "related": [
+        "topic-07",
+        "topic-40",
+        "topic-53"
+      ],
+      "note": "Gallbladder position and cystic artery. The missing biliary-tree figure belongs to the adjacent Extrahepatic Biliary System category.",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-53",
+      "title": "Extrahepatic Biliary System",
+      "related": [
+        "topic-52",
+        "topic-07",
+        "topic-40"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-54",
+      "title": "Glossopharyngeal Nerve",
+      "related": [
+        "topic-47",
+        "topic-45"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-55",
+      "title": "Omental Bursa",
+      "related": [
+        "topic-10",
+        "topic-30"
+      ],
+      "note": "",
+      "empty_note": ""
+    },
+    {
+      "id": "topic-56",
+      "title": "Serotonergic Nuclei",
+      "related": [
+        "topic-24"
+      ],
+      "note": "",
+      "empty_note": ""
+    }
+  ],
+  "questions": [
+    {
+      "id": "RQ-01",
+      "category": "topic-48",
+      "prompt": "Describe the cerebral cortex: its layers and major functional areas.",
+      "original_prompt": "Cortex feb1 3",
+      "options": [],
+      "answer": "Neocortex has six layers. Frontal lobe contains primary motor and prefrontal areas; parietal lobe primary somatosensory cortex; temporal lobe auditory/language-memory regions; occipital lobe primary visual cortex.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 1",
+      "notes": []
+    },
+    {
+      "id": "RQ-04",
+      "category": "topic-48",
+      "prompt": "Describe the motor homunculus and its somatotopic organization.",
+      "original_prompt": "Muscle homunculus feb1 6",
+      "options": [],
+      "answer": "The motor homunculus lies in the precentral gyrus: leg/foot are medial, trunk and upper limb more superolateral, and face/tongue inferolateral. Cortical area reflects precision of motor control rather than body size.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 4",
+      "notes": []
+    },
+    {
+      "id": "F17-01",
+      "category": "topic-48",
+      "prompt": "Which statement about the cerebral hemispheres is correct?",
+      "original_prompt": "Which statement about the cerebral hemispheres is correct?",
+      "options": [
+        [
+          "A",
+          "The visual area is in the parietal lobe"
+        ],
+        [
+          "B",
+          "The motor area is in the occipital lobe"
+        ],
+        [
+          "C",
+          "The auditory cortex is in the frontal lobe"
+        ],
+        [
+          "D",
+          "Wernicke’s area is in the temporal lobe"
+        ],
+        [
+          "E",
+          "Broca’s area is in the temporal lobe"
+        ]
+      ],
+      "answer": "D - Wernicke’s area is in the temporal lobe",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 1",
+      "notes": []
+    },
+    {
+      "id": "E18-02",
+      "category": "topic-48",
+      "prompt": "Which statement about the cerebral hemispheres is correct?",
+      "original_prompt": "Which statement about the cerebral hemispheres is correct?",
+      "options": [
+        [
+          "A",
+          "The visual area is in the parietal lobe"
+        ],
+        [
+          "B",
+          "The motor area is in the occipital lobe"
+        ],
+        [
+          "C",
+          "The auditory cortex is in the frontal lobe"
+        ],
+        [
+          "D",
+          "Wernicke’s area is in the temporal lobe"
+        ],
+        [
+          "E",
+          "Broca’s area is in the temporal lobe"
+        ]
+      ],
+      "answer": "D - Wernicke’s area is in the temporal lobe",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 2",
+      "notes": []
+    },
+    {
+      "id": "E18-10",
+      "category": "topic-48",
+      "prompt": "Which statement about the cerebral hemispheres is correct?",
+      "original_prompt": "Which statement about the cerebral hemispheres is correct?",
+      "options": [
+        [
+          "A",
+          "the primary sensory cortex is located in the frontal lobe"
+        ],
+        [
+          "B",
+          "the primary auditory cortex is located in the occipital lobe"
+        ],
+        [
+          "C",
+          "the primary visual cortex is located in the temporal lobe"
+        ],
+        [
+          "D",
+          "the Wernickes’s area is located in the frontal lobe"
+        ],
+        [
+          "E",
+          "the Broca’s motor speech center is located in the frontal lobe"
+        ]
+      ],
+      "answer": "E - the Broca’s motor speech center is located in the frontal lobe",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 10",
+      "notes": []
+    },
+    {
+      "id": "E18-18",
+      "category": "topic-48",
+      "prompt": "The primary motor cortex is located in",
+      "original_prompt": "The primary motor cortex is located in",
+      "options": [
+        [
+          "A",
+          "in the postcentral parietal gyrus"
+        ],
+        [
+          "B",
+          "precentral frontal gyrus of the frontal lobe"
+        ],
+        [
+          "C",
+          "in the superior temporal gyrus"
+        ],
+        [
+          "D",
+          "in the inferior temporal gyrus"
+        ],
+        [
+          "E",
+          "in the occipital lobe"
+        ]
+      ],
+      "answer": "B - precentral frontal gyrus of the frontal lobe",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 18",
+      "notes": []
+    },
+    {
+      "id": "RQ-02",
+      "category": "topic-24",
+      "prompt": "Describe the brainstem, with particular attention to the medulla oblongata and its nuclei.",
+      "original_prompt": "Midbrain with particular attention to the medulla oblungata and its nuclei",
+      "options": [],
+      "answer": "The brainstem comprises midbrain, pons and medulla. The medulla contains the pyramids, olives, gracile/cuneate nuclei, major ascending/descending tracts, and cranial-nerve nuclei mainly related to IX-XII.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 2",
+      "notes": [
+        "Editorial note: the original prompt conflates midbrain with medulla. Placement follows the supplied brainstem/medulla answer."
+      ]
+    },
+    {
+      "id": "RQ-19",
+      "category": "topic-39",
+      "prompt": "Describe the major hypothalamic nuclei and their functions.",
+      "original_prompt": "Hypothalamus and its nuclei",
+      "options": [],
+      "answer": "Key hypothalamic nuclei: supraoptic/paraventricular - ADH/oxytocin; suprachiasmatic - circadian rhythm; ventromedial - satiety; lateral - feeding; anterior/preoptic - heat loss; posterior - heat conservation/sympathetic responses; mammillary - memory; arcuate - endocrine regulation.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 19",
+      "notes": []
+    },
+    {
+      "id": "RQ-20",
+      "category": "topic-56",
+      "prompt": "Identify the major serotonergic nuclei of the central nervous system.",
+      "original_prompt": "Serotoninergic nuclei feb 12 x2",
+      "options": [],
+      "answer": "The raphe nuclei of the brainstem are the major serotonergic nuclei of the CNS.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 20",
+      "notes": []
+    },
+    {
+      "id": "F17-12",
+      "category": "topic-56",
+      "prompt": "Which is the main serotonin producing structure of the CNS?",
+      "original_prompt": "Which is the main serotonin producing structure of the CNS?",
+      "options": [
+        [
+          "A",
+          "Locus coeruleus"
+        ],
+        [
+          "B",
+          "Raphe nuclei"
+        ],
+        [
+          "C",
+          "Basal nucleus"
+        ],
+        [
+          "D",
+          "Dorsal column nuclei"
+        ],
+        [
+          "E",
+          "Substantia nigra pars compacta"
+        ]
+      ],
+      "answer": "B - Raphe nuclei",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 12",
+      "notes": [
+        "Equivalent duplicate: anatomy_mcq_answers.pdf, question 11, page 7. Incoming answer D; existing answer letters remain unchanged because options are reordered."
+      ]
+    },
+    {
+      "id": "E18-08",
+      "category": "topic-56",
+      "prompt": "Which is the main serotonin producing structure of the CNS?",
+      "original_prompt": "Which is the main serotonin producing structure of the CNS?",
+      "options": [
+        [
+          "A",
+          "Locus coeruleus"
+        ],
+        [
+          "B",
+          "Raphe nuclei"
+        ],
+        [
+          "C",
+          "Basal nucleus"
+        ],
+        [
+          "D",
+          "Dorsal column nuclei"
+        ],
+        [
+          "E",
+          "Substantia nigra pars compacta"
+        ]
+      ],
+      "answer": "B - Raphe nuclei",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 8",
+      "notes": []
+    },
+    {
+      "id": "E19-23",
+      "category": "topic-24",
+      "prompt": "Describe the position of cranial-nerve nuclei in the pons.",
+      "original_prompt": "position of nuclei in pons;",
+      "options": [],
+      "answer": "Pontine cranial-nerve nuclei follow the brainstem pattern: motor nuclei are medial and sensory nuclei lateral to the sulcus limitans; the pons contains nuclei associated mainly with CN V-VIII.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 23",
+      "notes": []
+    },
+    {
+      "id": "M17-15",
+      "category": "topic-49",
+      "prompt": "Describe the major afferent inputs to the striatum.",
+      "original_prompt": "Afferents to striatum",
+      "options": [],
+      "answer": "Major striatal afferents include glutamatergic corticostriatal and thalamostriatal fibers and dopaminergic nigrostriatal fibers from substantia nigra pars compacta.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 15",
+      "notes": []
+    },
+    {
+      "id": "RQ-06",
+      "category": "topic-03",
+      "prompt": "Describe the cerebellum: position, gross anatomy, and functions.",
+      "original_prompt": "function,position,anatomyx3",
+      "options": [],
+      "answer": "The cerebellum lies in the posterior cranial fossa dorsal to pons/medulla. It has vermis plus two hemispheres and anterior, posterior and flocculonodular lobes; it coordinates movement, posture, balance and motor learning.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 6",
+      "notes": []
+    },
+    {
+      "id": "RQ-07",
+      "category": "topic-03",
+      "prompt": "Name the layers of the cerebellar cortex from superficial to deep.",
+      "original_prompt": "cortex + name of its layers (faddy)",
+      "options": [],
+      "answer": "Cerebellar cortex has three layers, superficial to deep: molecular layer, Purkinje-cell layer, and granular layer.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 7",
+      "notes": []
+    },
+    {
+      "id": "RQ-08",
+      "category": "topic-03",
+      "prompt": "Describe Purkinje cells and their role in cerebellar output.",
+      "original_prompt": "Purkinje cells: feb 11 ,march 13 ,feb1 5",
+      "options": [],
+      "answer": "Purkinje cells are large GABAergic neurons and the sole output neurons of the cerebellar cortex; they inhibit deep cerebellar and vestibular nuclei.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 8",
+      "notes": []
+    },
+    {
+      "id": "RQ-09",
+      "category": "topic-03",
+      "prompt": "Name the deep cerebellar nuclei from lateral to medial.",
+      "original_prompt": "Deep cerebellar nuclei ( faddy)",
+      "options": [],
+      "answer": "Deep cerebellar nuclei from lateral to medial are dentate, emboliform, globose and fastigial.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 9",
+      "notes": []
+    },
+    {
+      "id": "RQ-10",
+      "category": "topic-19",
+      "prompt": "Describe the principal afferent and efferent pathways of the cerebellum.",
+      "original_prompt": "Afferent and efferent tracts (faddy)",
+      "options": [],
+      "answer": "Cerebellar afferents enter through all three peduncles as mossy or climbing fibers; the middle peduncle is almost entirely afferent. Most deep-nuclear efferents leave through the superior peduncle, with vestibular connections using the inferior peduncle.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 10",
+      "notes": []
+    },
+    {
+      "id": "F17-11",
+      "category": "topic-19",
+      "prompt": "Axons of Purkinje cells in the cortex of the nodulus project to:",
+      "original_prompt": "Axons of Purkinje cells in the cortex of the nodulus project to:",
+      "options": [
+        [
+          "A",
+          "Dentate nuclei"
+        ],
+        [
+          "B",
+          "Globose nuclei"
+        ],
+        [
+          "C",
+          "Fastigial nuclei"
+        ],
+        [
+          "D",
+          "Emboliform nuclei"
+        ],
+        [
+          "E",
+          "Vestibular nuclei"
+        ]
+      ],
+      "answer": "E - Vestibular nuclei",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 11",
+      "notes": []
+    },
+    {
+      "id": "M17-13",
+      "category": "topic-03",
+      "prompt": "Describe the function of Purkinje cells in the cerebellar cortex.",
+      "original_prompt": "Purkinje cells of cerebellar cortex",
+      "options": [],
+      "answer": "Purkinje cells are GABAergic inhibitory output neurons of the cerebellar cortex and inhibit deep cerebellar and vestibular nuclei.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 13",
+      "notes": [
+        "Source recall text: inhibitor effect on nuclei (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-15",
+      "category": "topic-19",
+      "prompt": "Axons of Purkinje cells in the cortex of the nodulus project to:",
+      "original_prompt": "Axons of Purkinje cells in the cortex of the nodulus project to:",
+      "options": [
+        [
+          "A",
+          "Dentate nuclei"
+        ],
+        [
+          "B",
+          "Globose nuclei"
+        ],
+        [
+          "C",
+          "Fastigial nuclei"
+        ],
+        [
+          "D",
+          "Emboliform nuclei"
+        ],
+        [
+          "E",
+          "Vestibular nuclei"
+        ]
+      ],
+      "answer": "E - Vestibular nuclei",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 15",
+      "notes": []
+    },
+    {
+      "id": "RQ-05",
+      "category": "topic-09",
+      "prompt": "Compare gray and white matter and describe their organization in the spinal cord.",
+      "original_prompt": "General features of white and gray matter ( Michele)",
+      "options": [],
+      "answer": "Gray matter contains neuronal cell bodies, dendrites and synapses; white matter is mainly myelinated axons. In the spinal cord gray matter is central and H-shaped, while white matter is peripheral in posterior, lateral and anterior funiculi.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 5",
+      "notes": []
+    },
+    {
+      "id": "RQ-12",
+      "category": "topic-09",
+      "prompt": "Describe a descending motor pathway.",
+      "original_prompt": "Talk about a descending pathway",
+      "options": [],
+      "answer": "Example descending pathway - corticospinal tract: motor cortex -> corona radiata/internal capsule -> cerebral peduncle -> pons -> medullary pyramids -> pyramidal decussation -> lateral corticospinal tract -> spinal motor circuits.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 12",
+      "notes": []
+    },
+    {
+      "id": "RQ-13",
+      "category": "topic-09",
+      "prompt": "Describe how conscious sensory information reaches the cerebral cortex.",
+      "original_prompt": "Describe in general how a sensory information is passed to the cortex",
+      "options": [],
+      "answer": "General conscious sensory pathway: receptor -> first-order neuron in a sensory ganglion -> second-order neuron, usually with decussation -> thalamus -> third-order neuron -> primary sensory cortex.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 13",
+      "notes": []
+    },
+    {
+      "id": "RQ-14",
+      "category": "topic-42",
+      "prompt": "Compare the fasciculus gracilis and fasciculus cuneatus.",
+      "original_prompt": "Cuneate and gracilis",
+      "options": [],
+      "answer": "Dorsal columns carry fine touch, vibration and conscious proprioception. Fasciculus gracilis carries ipsilateral lower limb/lower trunk; fasciculus cuneatus carries ipsilateral upper trunk/upper limb above T6 before synapsing in the medulla.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 14",
+      "notes": []
+    },
+    {
+      "id": "RQ-15",
+      "category": "topic-09",
+      "prompt": "Describe the major ascending sensory pathways.",
+      "original_prompt": "Ascending pathways",
+      "options": [],
+      "answer": "Major ascending systems are dorsal column-medial lemniscus for fine touch/vibration/proprioception, anterolateral/spinothalamic pathways for pain-temperature/crude touch, and spinocerebellar tracts for unconscious proprioception.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 15",
+      "notes": []
+    },
+    {
+      "id": "RQ-16",
+      "category": "topic-09",
+      "prompt": "Describe the major descending motor tracts.",
+      "original_prompt": "Descending tracts feb2",
+      "options": [],
+      "answer": "Major descending tracts include corticospinal/corticobulbar for voluntary movement and vestibulospinal, reticulospinal, rubrospinal and tectospinal tracts for posture, tone and reflex orientation.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 16",
+      "notes": []
+    },
+    {
+      "id": "RQ-17",
+      "category": "topic-09",
+      "prompt": "Describe the spinothalamic tract: modalities, crossing, and course.",
+      "original_prompt": "Spinothalamic tract feb 2",
+      "options": [],
+      "answer": "The spinothalamic/anterolateral system carries pain and temperature (and crude touch). Second-order neurons cross in the anterior white commissure within about 1-2 spinal levels and ascend contralaterally.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 17",
+      "notes": []
+    },
+    {
+      "id": "RQ-18",
+      "category": "topic-42",
+      "prompt": "Describe the fasciculus cuneatus and the sensory information it carries.",
+      "original_prompt": "Fasciculus cuneatus feb 10",
+      "options": [],
+      "answer": "Fasciculus cuneatus carries ipsilateral fine touch, vibration and conscious proprioception from the upper limb and upper trunk above T6 to the cuneate nucleus in the medulla.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 18",
+      "notes": []
+    },
+    {
+      "id": "F17-02",
+      "category": "topic-09",
+      "prompt": "Which statement about the spinal cord is correct?",
+      "original_prompt": "Which statement about the spinal cord is correct?",
+      "options": [
+        [
+          "A",
+          "Most descending pathways run in the ventral column"
+        ],
+        [
+          "B",
+          "Dorsal columns carry first order sensory fibres"
+        ],
+        [
+          "C",
+          "The spinothalamic tract carries fibres regarding discriminative touch"
+        ]
+      ],
+      "answer": "B - Dorsal columns carry first order sensory fibres",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 2",
+      "notes": []
+    },
+    {
+      "id": "F17-10",
+      "category": "topic-42",
+      "prompt": "The left fasciculus cuneatus carries sensory information from:",
+      "original_prompt": "The left fasciculus cuneatus carries sensory information from:",
+      "options": [
+        [
+          "A",
+          "Right lower limb"
+        ],
+        [
+          "B",
+          "Left upper limb"
+        ],
+        [
+          "C",
+          "Right upper limb"
+        ],
+        [
+          "D",
+          "Left lower limb"
+        ]
+      ],
+      "answer": "B - Left upper limb",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 10",
+      "notes": []
+    },
+    {
+      "id": "M17-14",
+      "category": "topic-09",
+      "prompt": "Describe the course of lower spinal nerve roots and the formation of the cauda equina.",
+      "original_prompt": "Spinal cord",
+      "options": [],
+      "answer": "Because the spinal cord ends near L1-L2, lower lumbar and sacral roots travel progressively farther downward in the vertebral canal, forming the cauda equina.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 14",
+      "notes": [
+        "Source recall text: length of spinal nerves increases at lower levels (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E19-16",
+      "category": "topic-09",
+      "prompt": "Describe the locations of major tracts and neuron groups in the spinal cord.",
+      "original_prompt": "Position of tracts and neurons in spinal cord;",
+      "options": [],
+      "answer": "In spinal cord, somatic motor neurons are in the anterior horn, sensory processing mainly in posterior horn, and autonomic preganglionic neurons in lateral horn at relevant levels. Dorsal columns are posterior; corticospinal tracts mainly lateral; anterolateral system lies anterolaterally.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 16",
+      "notes": []
+    },
+    {
+      "id": "A8D-11",
+      "category": "topic-09",
+      "prompt": "Which spinal nerve supplies the dermatome containing the umbilicus?",
+      "original_prompt": "Which spinal nerve innerves the darmatome that contains the umbelicus?",
+      "options": [],
+      "answer": "The umbilicus corresponds classically to the T10 dermatome.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 11",
+      "notes": []
+    },
+    {
+      "id": "A8R-11",
+      "category": "topic-09",
+      "prompt": "Which spinal nerve supplies the dermatome containing the umbilicus?",
+      "original_prompt": "Which spinal nerve innerves the darmatome that contains the umbelicus?",
+      "options": [],
+      "answer": "The umbilicus corresponds classically to the T10 dermatome.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 11",
+      "notes": []
+    },
+    {
+      "id": "RQ-11",
+      "category": "topic-46",
+      "prompt": "Describe cranial and spinal dura mater.",
+      "original_prompt": "Dura mater feb 5",
+      "options": [],
+      "answer": "Cranial dura has periosteal and meningeal layers and forms dural folds and venous sinuses. Spinal dura is a single meningeal layer separated from vertebrae by epidural space and extends to about S2.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 11",
+      "notes": []
+    },
+    {
+      "id": "F17-05",
+      "category": "topic-46",
+      "prompt": "Which statement about the spinal dura mater is correct?",
+      "original_prompt": "Which statement about the spinal dura mater is correct?",
+      "options": [
+        [
+          "A",
+          "It lies deep to the arterial plexus"
+        ],
+        [
+          "B",
+          "It ends at level of L2"
+        ],
+        [
+          "C",
+          "It lies superficial to the venous plexus"
+        ],
+        [
+          "D",
+          "It is in contact with the periosteum of the vertebral canal"
+        ],
+        [
+          "E",
+          "It is attached to the margins of the foramen magnum"
+        ]
+      ],
+      "answer": "E - It is attached to the margins of the foramen magnum",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 5",
+      "notes": []
+    },
+    {
+      "id": "M17-23",
+      "category": "topic-15",
+      "prompt": "Which functions may be affected by damage to structures in the cavernous sinus?",
+      "original_prompt": "What would be affected in case of damage to structures in the cavernous sinuses",
+      "options": [],
+      "answer": "A cavernous-sinus lesion can affect CN III, IV, V1, V2, VI and sympathetic fibers. V2 involvement can reduce sensation over the cheek.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 23",
+      "notes": [
+        "Source recall text: sensitivity of the cheeks (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-04",
+      "category": "topic-46",
+      "prompt": "Which statement about the spinal dura mater is correct?",
+      "original_prompt": "Which statement about the spinal dura mater is correct?",
+      "options": [
+        [
+          "A",
+          "It lies deep to the arterial plexus"
+        ],
+        [
+          "B",
+          "It ends at level of L2"
+        ],
+        [
+          "C",
+          "It lies superficial to the venous plexus"
+        ],
+        [
+          "D",
+          "It is in contact with the periosteum of the vertebral canal"
+        ],
+        [
+          "E",
+          "It is attached to the margins of the foramen magnum"
+        ]
+      ],
+      "answer": "E - It is attached to the margins of the foramen magnum",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 4",
+      "notes": []
+    },
+    {
+      "id": "E19-04",
+      "category": "topic-46",
+      "prompt": "Describe the position, formation, and drainage of the straight sinus.",
+      "original_prompt": "What is true about straight sinus;",
+      "options": [],
+      "answer": "The straight sinus lies at the junction of falx cerebri and tentorium cerebelli, is formed by the inferior sagittal sinus plus great cerebral vein, and drains toward the confluence of sinuses.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 4",
+      "notes": []
+    },
+    {
+      "id": "E19-14",
+      "category": "topic-51",
+      "prompt": "Describe the ventricular connections, walls and floor of the third ventricle, and floor of the fourth ventricle.",
+      "original_prompt": "System of ventricles (medial foramen, wall and floor of third ventricle, floor of fourth);",
+      "options": [],
+      "answer": "Interventricular foramina connect lateral ventricles to the third ventricle. Third-ventricle walls are mainly thalamus/hypothalamus; its floor is hypothalamic. The floor of the fourth ventricle is the rhomboid fossa on dorsal pons/medulla.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 14",
+      "notes": []
+    },
+    {
+      "id": "E19-17",
+      "category": "topic-46",
+      "prompt": "Identify the labeled structure in the spinal-cord cross-section. [Figure missing.]",
+      "original_prompt": "(cross section of spinal cord with letters) correct match",
+      "options": [],
+      "answer": "Source recall identifies the epidural space; the exact label cannot be independently recovered because the referenced cross-section is missing.",
+      "status": "SOURCE RECALL",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 17",
+      "notes": [
+        "Source recall text: epidural space (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "A8D-18",
+      "category": "topic-50",
+      "prompt": "Describe the production, circulation, and absorption of cerebrospinal fluid.",
+      "original_prompt": "What's true about cerebrospinal fluid?",
+      "options": [],
+      "answer": "CSF is produced mainly by choroid plexuses, circulates through ventricles and subarachnoid space, and is absorbed chiefly through arachnoid granulations into dural venous sinuses.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 18",
+      "notes": []
+    },
+    {
+      "id": "A8R-18",
+      "category": "topic-50",
+      "prompt": "Describe the production, circulation, and absorption of cerebrospinal fluid.",
+      "original_prompt": "What's true about cerebrospinal fluid?",
+      "options": [],
+      "answer": "CSF is produced mainly by choroid plexuses, circulates through ventricles and subarachnoid space, and is absorbed chiefly through arachnoid granulations into dural venous sinuses.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 18",
+      "notes": []
+    },
+    {
+      "id": "RQ-03",
+      "category": "topic-26",
+      "prompt": "Describe the arterial blood supply of the brain.",
+      "original_prompt": "Brain blood supply: faiz,feb 6,march 17",
+      "options": [],
+      "answer": "Anterior circulation comes from the internal carotid arteries and gives ACA/MCA; posterior circulation comes from vertebral arteries -> basilar artery -> PCA. The Circle of Willis links these systems via anterior and posterior communicating arteries.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 3",
+      "notes": []
+    },
+    {
+      "id": "F17-06",
+      "category": "topic-26",
+      "prompt": "Ischemia of the anterior cerebral artery is associated with loss of sensation from the:",
+      "original_prompt": "Ischemia of the anterior cerebral artery is associated with loss of sensation from the:",
+      "options": [
+        [
+          "A",
+          "Arm"
+        ],
+        [
+          "B",
+          "Foot"
+        ],
+        [
+          "C",
+          "Face"
+        ],
+        [
+          "D",
+          "Back"
+        ],
+        [
+          "E",
+          "Neck"
+        ]
+      ],
+      "answer": "B - Foot",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 6",
+      "notes": []
+    },
+    {
+      "id": "M17-17",
+      "category": "topic-26",
+      "prompt": "Identify the communicating artery recalled as connecting the middle and posterior cerebral circulations. [Original wording is imprecise.]",
+      "original_prompt": "Artery that connects middle and posterior cerebral",
+      "options": [],
+      "answer": "The posterior communicating artery connects the internal-carotid circulation with the posterior cerebral artery; it does not directly connect the middle cerebral artery to the posterior cerebral artery.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 17",
+      "notes": [
+        "Source recall text: posterior communicating (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-23",
+      "category": "topic-26",
+      "prompt": "Ischemia of the anterior cerebral artery is associated with loss of sensation from the:",
+      "original_prompt": "Ischemia of the anterior cerebral artery is associated with loss of sensation from the:",
+      "options": [
+        [
+          "A",
+          "Arm"
+        ],
+        [
+          "B",
+          "Foot"
+        ],
+        [
+          "C",
+          "Face"
+        ],
+        [
+          "D",
+          "Back"
+        ],
+        [
+          "E",
+          "Neck"
+        ]
+      ],
+      "answer": "B - Foot",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 23",
+      "notes": []
+    },
+    {
+      "id": "E19-10",
+      "category": "topic-26",
+      "prompt": "Identify the correct cerebral arterial branch arising from the vertebral artery, basilar artery, or internal carotid artery. [Options missing.]",
+      "original_prompt": "Indicate the correct branch in brain (from vertebral, basilar or ICA);",
+      "options": [],
+      "answer": "Not determinable from the recalled prompt alone: the candidate arteries/branches are not present in the supplied source.",
+      "status": "UNRESOLVED",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 10",
+      "notes": []
+    },
+    {
+      "id": "RQ-21",
+      "category": "topic-27",
+      "prompt": "Describe the facial nerve: fiber types, functions, and targets.",
+      "original_prompt": "Facial nerve",
+      "options": [],
+      "answer": "CN VII is mixed: branchial motor to facial-expression muscles, stapedius, stylohyoid and posterior digastric; taste from anterior two-thirds of tongue; parasympathetic to lacrimal, submandibular and sublingual glands; small somatic sensory component.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 21",
+      "notes": []
+    },
+    {
+      "id": "RQ-22",
+      "category": "topic-27",
+      "prompt": "Name the sensory and parasympathetic ganglia associated with the facial nerve.",
+      "original_prompt": "-ganglia(andrea)",
+      "options": [],
+      "answer": "Facial-nerve sensory cell bodies are in the geniculate ganglion. Its parasympathetic fibers synapse in the pterygopalatine ganglion or submandibular ganglion.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 22",
+      "notes": []
+    },
+    {
+      "id": "RQ-23",
+      "category": "topic-27",
+      "prompt": "Describe the fiber types carried by the facial nerve and the muscles it innervates.",
+      "original_prompt": "-types of fibers that it carries and muscles innervated ( Michele)",
+      "options": [],
+      "answer": "CN VII carries branchial motor, parasympathetic, taste and small somatic sensory fibers. Motor targets include facial-expression muscles, stapedius, stylohyoid and posterior belly of digastric.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 23",
+      "notes": []
+    },
+    {
+      "id": "RQ-24",
+      "category": "topic-47",
+      "prompt": "Describe the vagus nerve and its principal functions.",
+      "original_prompt": "Vagus : feb 4,march 19",
+      "options": [],
+      "answer": "CN X is mixed: motor to palate/pharynx/larynx; parasympathetic to thoracic and abdominal viscera to the left colic flexure; visceral and somatic sensory fibers; taste from the epiglottic region.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 24",
+      "notes": []
+    },
+    {
+      "id": "RQ-25",
+      "category": "topic-25",
+      "prompt": "Describe the divisions and principal functions of the trigeminal nerve.",
+      "original_prompt": "Trigeminal nerve: march 18",
+      "options": [],
+      "answer": "CN V: V1 and V2 are sensory; V3 is sensory plus motor to muscles of mastication, mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 25",
+      "notes": []
+    },
+    {
+      "id": "RQ-26",
+      "category": "topic-54",
+      "prompt": "Describe the glossopharyngeal nerve and its principal functions.",
+      "original_prompt": "Glossopharyngeal nerve : march 20",
+      "options": [],
+      "answer": "CN IX carries taste and general sensation from posterior one-third of tongue, motor fibers to stylopharyngeus, parasympathetic fibers to parotid via the otic ganglion, and sensory fibers from carotid sinus/body and pharynx.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 26",
+      "notes": []
+    },
+    {
+      "id": "F17-03",
+      "category": "topic-18",
+      "prompt": "An isolated lesion of the oculomotor nerve causes:",
+      "original_prompt": "A cancer of (only) the oculomotor nerve causes:",
+      "options": [
+        [
+          "A",
+          "Pupil constriction"
+        ],
+        [
+          "B",
+          "Increased lacrimation"
+        ],
+        [
+          "C",
+          "Absence of corneal reflex"
+        ],
+        [
+          "D",
+          "Eye moved down and out"
+        ]
+      ],
+      "answer": "D - Eye moved down and out",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 3",
+      "notes": []
+    },
+    {
+      "id": "F17-04",
+      "category": "topic-47",
+      "prompt": "Which statement best describes the right vagus nerve in the thorax?",
+      "original_prompt": "Which statement best describes the right vagus nerve in the thorax?",
+      "options": [
+        [
+          "A",
+          "It forms the oesophageal plexus"
+        ],
+        [
+          "B",
+          "It gives rise to the recurrent laryngeal nerve"
+        ],
+        [
+          "C",
+          "It runs anteriorly to the root of the lung"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "A - It forms the oesophageal plexus",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 4",
+      "notes": []
+    },
+    {
+      "id": "F17-07",
+      "category": "topic-27",
+      "prompt": "Bodies of sensory neurons for the taste sensation of the anterior 2/3 of the tongue are in:",
+      "original_prompt": "Bodies of sensory neurons for the taste sensation of the anterior 2/3 of the tongue are in:",
+      "options": [
+        [
+          "A",
+          "Otic ganglion"
+        ],
+        [
+          "B",
+          "Nodose ganglion"
+        ],
+        [
+          "C",
+          "Geniculate ganglion"
+        ],
+        [
+          "D",
+          "Trigeminal ganglion"
+        ],
+        [
+          "E",
+          "Submandibular ganglion"
+        ]
+      ],
+      "answer": "C - Geniculate ganglion",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 7",
+      "notes": []
+    },
+    {
+      "id": "F17-08",
+      "category": "topic-41",
+      "prompt": "Pain sensation from the laryngeal vestibule is carried by:",
+      "original_prompt": "Pain sensation from the laryngeal vestibule is carried by:",
+      "options": [
+        [
+          "A",
+          "Superior laryngeal nerve"
+        ],
+        [
+          "B",
+          "Recurrent laryngeal nerve"
+        ],
+        [
+          "C",
+          "Glossopharyngeal nerve"
+        ],
+        [
+          "D",
+          "Accessory nerve"
+        ],
+        [
+          "E",
+          "Greater petrosal nerve"
+        ]
+      ],
+      "answer": "A - Superior laryngeal nerve",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 8",
+      "notes": []
+    },
+    {
+      "id": "F17-09",
+      "category": "topic-27",
+      "prompt": "The cranial nerve responsible for the motor innervation of most facial muscles also innervates:",
+      "original_prompt": "The cranial nerve responsible for the motor innervation of most facial muscles also innervates:",
+      "options": [
+        [
+          "A",
+          "Tensor veli palatini"
+        ],
+        [
+          "B",
+          "Mylohyoid"
+        ],
+        [
+          "C",
+          "Anterior belly of digastric"
+        ],
+        [
+          "D",
+          "Stylopharyngeus"
+        ],
+        [
+          "E",
+          "Stylohyoid"
+        ]
+      ],
+      "answer": "E - Stylohyoid",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 9",
+      "notes": []
+    },
+    {
+      "id": "M17-18",
+      "category": "topic-25",
+      "prompt": "Describe the route of the mandibular nerve into the infratemporal fossa.",
+      "original_prompt": "Mandibular nerve",
+      "options": [],
+      "answer": "The mandibular division of the trigeminal nerve (V3) exits through foramen ovale into the infratemporal fossa.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 18",
+      "notes": [
+        "Source recall text: enters the infratemporal fossa (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-19",
+      "category": "topic-41",
+      "prompt": "Describe the sensory innervation of the larynx.",
+      "original_prompt": "Sensory innervation of larynx",
+      "options": [],
+      "answer": "Laryngeal mucosal sensation is carried by the vagus: internal superior laryngeal nerve above the vocal folds and recurrent laryngeal nerve below them.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 19",
+      "notes": [
+        "Source recall text: vagus nerve (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-20",
+      "category": "topic-54",
+      "prompt": "Describe the course and principal functions of the glossopharyngeal nerve.",
+      "original_prompt": "Glossopharyngeal nerve",
+      "options": [],
+      "answer": "CN IX exits the jugular foramen and supplies stylopharyngeus; it also carries taste/sensation from posterior one-third of tongue and parasympathetic fibers to parotid.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 20",
+      "notes": [
+        "Source recall text: innervates stylopharyngeus; passes through the jugular foramen in the posterior cranial fossa (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-01",
+      "category": "topic-27",
+      "prompt": "Which of the following innervates the stapedius muscle?",
+      "original_prompt": "Which of the following innervates the stapedius muscle?",
+      "options": [
+        [
+          "A",
+          "Glossopharyngeal nerve"
+        ],
+        [
+          "B",
+          "facial nerve"
+        ],
+        [
+          "C",
+          "Vagus nerve"
+        ],
+        [
+          "D",
+          "CN V"
+        ],
+        [
+          "E",
+          "CN XI"
+        ]
+      ],
+      "answer": "B - facial nerve",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 1",
+      "notes": []
+    },
+    {
+      "id": "E18-03",
+      "category": "topic-27",
+      "prompt": "Bodies of sensory neurons for the taste sensation of the anterior 2/3 of the tongue are in:",
+      "original_prompt": "Bodies of sensory neurons for the taste sensation of the anterior 2/3 of the tongue are in:",
+      "options": [
+        [
+          "A",
+          "Otic ganglion"
+        ],
+        [
+          "B",
+          "Nodose ganglion"
+        ],
+        [
+          "C",
+          "Geniculate ganglion"
+        ],
+        [
+          "D",
+          "Trigeminal ganglion"
+        ],
+        [
+          "E",
+          "Submandibular ganglion"
+        ]
+      ],
+      "answer": "C - Geniculate ganglion",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 3",
+      "notes": []
+    },
+    {
+      "id": "E18-09",
+      "category": "topic-41",
+      "prompt": "Pain sensation from the laryngeal vestibule is carried by:",
+      "original_prompt": "Pain sensation from the laryngeal vestibule is carried by:",
+      "options": [
+        [
+          "A",
+          "Superior laryngeal nerve"
+        ],
+        [
+          "B",
+          "Recurrent laryngeal nerve"
+        ],
+        [
+          "C",
+          "Glossopharyngeal nerve"
+        ],
+        [
+          "D",
+          "Accessory nerve"
+        ],
+        [
+          "E",
+          "Greater petrosal nerve"
+        ]
+      ],
+      "answer": "A - Superior laryngeal nerve",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 9",
+      "notes": []
+    },
+    {
+      "id": "E18-24",
+      "category": "topic-18",
+      "prompt": "An isolated lesion of the oculomotor nerve causes:",
+      "original_prompt": "A cancer of (only) the oculomotor nerve causes:",
+      "options": [
+        [
+          "A",
+          "Pupil constriction"
+        ],
+        [
+          "B",
+          "Increased lacrimation"
+        ],
+        [
+          "C",
+          "Absence of corneal reflex"
+        ],
+        [
+          "D",
+          "Eye moved down and out"
+        ]
+      ],
+      "answer": "D - Eye moved down and out",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 24",
+      "notes": []
+    },
+    {
+      "id": "E18-25",
+      "category": "topic-27",
+      "prompt": "The cranial nerve responsible for the motor innervation of most facial muscles also innervates:",
+      "original_prompt": "The cranial nerve responsible for the motor innervation of most facial muscles also innervates:",
+      "options": [
+        [
+          "A",
+          "Tensor veli palatini"
+        ],
+        [
+          "B",
+          "Mylohyoid"
+        ],
+        [
+          "C",
+          "Anterior belly of digastric"
+        ],
+        [
+          "D",
+          "Stylopharyngeus"
+        ],
+        [
+          "E",
+          "Stylohyoid"
+        ]
+      ],
+      "answer": "E - Stylohyoid",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 25",
+      "notes": []
+    },
+    {
+      "id": "E18-26",
+      "category": "topic-47",
+      "prompt": "Which statement best describes the right vagus nerve in the thorax?",
+      "original_prompt": "Which statement best describes the right vagus nerve in the thorax?",
+      "options": [
+        [
+          "A",
+          "It forms the oesophageal plexus"
+        ],
+        [
+          "B",
+          "It gives rise to the recurrent laryngeal nerve"
+        ],
+        [
+          "C",
+          "It runs anteriorly to the root of the lung"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "A - It forms the oesophageal plexus",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 26",
+      "notes": []
+    },
+    {
+      "id": "E19-24",
+      "category": "topic-18",
+      "prompt": "Which cranial nerve carries both somatic motor and visceral motor fibers?",
+      "original_prompt": "which CN is both somatomotor and visceromotor?",
+      "options": [],
+      "answer": "Oculomotor nerve (CN III) carries somatic motor fibers to extraocular muscles and visceral motor parasympathetic fibers to sphincter pupillae and ciliary muscle.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 24",
+      "notes": []
+    },
+    {
+      "id": "A8D-10",
+      "category": "topic-25",
+      "prompt": "Which additional muscles are innervated by the nerve supplying the muscles of mastication?",
+      "original_prompt": "The nerve that innervates the muscles of mastication innervates also?",
+      "options": [],
+      "answer": "The mandibular division of trigeminal nerve (V3) innervates muscles of mastication and also mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 10",
+      "notes": []
+    },
+    {
+      "id": "A8D-13",
+      "category": "topic-41",
+      "prompt": "Which nerve supplies the mucosa of the laryngeal vestibule?",
+      "original_prompt": "Which nerve innerves the mucosa of the laryngeal vestibule?",
+      "options": [],
+      "answer": "The internal branch of the superior laryngeal nerve (CN X) supplies sensation to the laryngeal vestibule and mucosa above the vocal folds.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 13",
+      "notes": []
+    },
+    {
+      "id": "A8D-14",
+      "category": "topic-27",
+      "prompt": "Which functions are associated with the facial nerve?",
+      "original_prompt": "Which of this actions are related to the facial nerve?",
+      "options": [],
+      "answer": "CN VII controls muscles of facial expression and also stapedius, stylohyoid and posterior belly of digastric; it carries taste from anterior two-thirds of tongue and parasympathetic fibers to lacrimal, submandibular and sublingual glands.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 14",
+      "notes": []
+    },
+    {
+      "id": "A8D-15",
+      "category": "topic-25",
+      "prompt": "Which muscle is innervated by the trigeminal nerve?",
+      "original_prompt": "Which muscle is innerved by trigeminal nerve?",
+      "options": [],
+      "answer": "Mylohyoid, via the nerve to mylohyoid from the mandibular division of the trigeminal nerve (V3).",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 15",
+      "notes": [
+        "Source recall text: Mylohoid (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "A8R-10",
+      "category": "topic-25",
+      "prompt": "Which additional muscles are innervated by the nerve supplying the muscles of mastication?",
+      "original_prompt": "The nerve that innervates the muscles of mastication innervates also?",
+      "options": [],
+      "answer": "The mandibular division of trigeminal nerve (V3) innervates muscles of mastication and also mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 10",
+      "notes": []
+    },
+    {
+      "id": "A8R-13",
+      "category": "topic-41",
+      "prompt": "Which nerve supplies the mucosa of the laryngeal vestibule?",
+      "original_prompt": "Which nerve innerves the mucosa of the laryngeal vestibule?",
+      "options": [],
+      "answer": "The internal branch of the superior laryngeal nerve (CN X) supplies sensation to the laryngeal vestibule and mucosa above the vocal folds.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 13",
+      "notes": []
+    },
+    {
+      "id": "A8R-14",
+      "category": "topic-27",
+      "prompt": "Which functions are associated with the facial nerve?",
+      "original_prompt": "Which of this actions are related to the facial nerve?",
+      "options": [],
+      "answer": "CN VII controls muscles of facial expression and also stapedius, stylohyoid and posterior belly of digastric; it carries taste from anterior two-thirds of tongue and parasympathetic fibers to lacrimal, submandibular and sublingual glands.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 14",
+      "notes": []
+    },
+    {
+      "id": "A8R-15",
+      "category": "topic-25",
+      "prompt": "Which muscle is innervated by the trigeminal nerve?",
+      "original_prompt": "Which muscle is innerved by trigeminal nerve?",
+      "options": [],
+      "answer": "Mylohyoid, via the nerve to mylohyoid from the mandibular division of the trigeminal nerve (V3).",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 15",
+      "notes": [
+        "Source recall text: Mylohoid (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "RQ-27",
+      "category": "topic-45",
+      "prompt": "Describe the sympathetic chain and the routes taken by its preganglionic fibers.",
+      "original_prompt": "Sympathetic chain feb 13,Andrea",
+      "options": [],
+      "answer": "The sympathetic chain is a paired series of paravertebral ganglia from the cervical region to coccyx. Preganglionic neurons arise T1-L2, enter through white rami, and may synapse locally, ascend/descend, or pass as splanchnic nerves.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 27",
+      "notes": []
+    },
+    {
+      "id": "RQ-28",
+      "category": "topic-45",
+      "prompt": "Describe parasympathetic outflow, fiber lengths, neurotransmitters, and receptors.",
+      "original_prompt": "Parasympathetic fibers :feb 14,march 21",
+      "options": [],
+      "answer": "Parasympathetic outflow is craniosacral (CN III, VII, IX, X and S2-S4). Long preganglionic fibers release acetylcholine onto nicotinic receptors; short postganglionic fibers release acetylcholine onto muscarinic receptors.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 28",
+      "notes": []
+    },
+    {
+      "id": "RQ-29",
+      "category": "topic-45",
+      "prompt": "Compare autonomic neurotransmitters and receptors.",
+      "original_prompt": "Neurotransmitters and receptors (Andrea)",
+      "options": [],
+      "answer": "All autonomic preganglionic fibers use acetylcholine at nicotinic receptors. Parasympathetic postganglionics use acetylcholine at muscarinic receptors. Most sympathetic postganglionics use noradrenaline at alpha/beta receptors; sweat glands use acetylcholine at muscarinic receptors.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 29",
+      "notes": []
+    },
+    {
+      "id": "F17-13",
+      "category": "topic-45",
+      "prompt": "Which statement best describes the sympathetic chain in the thorax?",
+      "original_prompt": "Which statement best describes the sympathetic chain in the thorax?",
+      "options": [
+        [
+          "A",
+          "It gives rise to splanchnic nerves"
+        ],
+        [
+          "B",
+          "It is connected to intercostal nerves"
+        ],
+        [
+          "C",
+          "It enters the abdomen in company with the aorta"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "D - A + B",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 13",
+      "notes": []
+    },
+    {
+      "id": "F17-14",
+      "category": "topic-45",
+      "prompt": "Postganglionic parasympathetic fibres use __(1)__ as neurotransmitter and __(2)__ receptors.",
+      "original_prompt": "Postganglionic parasympathetic fibres use __(1)__ as neurotransmitter and __(2)__ receptors.",
+      "options": [
+        [
+          "A",
+          "noradrenaline (1) ; noradrenergic (2)"
+        ],
+        [
+          "B",
+          "adrenaline (1) ; nicotinic (2)"
+        ],
+        [
+          "C",
+          "acetylcholine (1) ; muscarinic (2)"
+        ],
+        [
+          "D",
+          "noradrenaline (1) ; muscarinic (2)"
+        ],
+        [
+          "E",
+          "acetylcholine (1) ; nicotinic (2)"
+        ]
+      ],
+      "answer": "C - acetylcholine (1) ; muscarinic (2)",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 14",
+      "notes": []
+    },
+    {
+      "id": "M17-21",
+      "category": "topic-45",
+      "prompt": "Identify the parasympathetic ganglion associated with the greater petrosal nerve.",
+      "original_prompt": "Parasympathetic ganglia",
+      "options": [],
+      "answer": "Preganglionic parasympathetic fibers in the greater petrosal nerve (CN VII) synapse in the pterygopalatine ganglion.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 21",
+      "notes": [
+        "Source recall text: pterygopalatine ganglion for greater petrosal nerve (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-14",
+      "category": "topic-45",
+      "prompt": "Postganglionic parasympathetic fibres use __(1)__ as neurotransmitter and __(2)__ receptors.",
+      "original_prompt": "Postganglionic parasympathetic fibres use __(1)__ as neurotransmitter and __(2)__ receptors.",
+      "options": [
+        [
+          "A",
+          "noradrenaline (1) ; noradrenergic (2)"
+        ],
+        [
+          "B",
+          "adrenaline (1) ; nicotinic (2)"
+        ],
+        [
+          "C",
+          "acetylcholine (1) ; muscarinic (2)"
+        ],
+        [
+          "D",
+          "noradrenaline (1) ; muscarinic (2)"
+        ],
+        [
+          "E",
+          "acetylcholine (1) ; nicotinic (2)"
+        ]
+      ],
+      "answer": "C - acetylcholine (1) ; muscarinic (2)",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 14",
+      "notes": []
+    },
+    {
+      "id": "RQ-30",
+      "category": "topic-17",
+      "prompt": "Describe retinal signaling and the distinguishing features of the fovea and optic disc.",
+      "original_prompt": "Retina",
+      "options": [],
+      "answer": "Retinal signaling is photoreceptor -> bipolar cell -> ganglion cell, modulated by horizontal and amacrine cells. The fovea is cone-rich and avascular; the optic disc has no photoreceptors.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 30",
+      "notes": []
+    },
+    {
+      "id": "RQ-31",
+      "category": "topic-17",
+      "prompt": "Trace the visual pathway from the retina to the primary visual cortex.",
+      "original_prompt": "Visual pathway march 16",
+      "options": [],
+      "answer": "Visual pathway: retina -> optic nerve -> optic chiasm, where nasal retinal fibers cross -> optic tract -> lateral geniculate nucleus -> optic radiations -> primary visual cortex around the calcarine sulcus.",
+      "status": "STUDY ANSWER",
+      "source": "Neuroanatomy questions (recall) · source prompt 31",
+      "notes": []
+    },
+    {
+      "id": "M17-16",
+      "category": "topic-17",
+      "prompt": "Describe the cortical representation of macular visual information.",
+      "original_prompt": "Visual pathway",
+      "options": [],
+      "answer": "Macular fibers project to the occipital pole and have a disproportionately large representation in primary visual cortex.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 16",
+      "notes": [
+        "Source recall text: fibres from macula lutea reach 1/3 of the visual cortex (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E19-07",
+      "category": "topic-17",
+      "prompt": "Describe the cellular and vascular features of the fovea centralis.",
+      "original_prompt": "What is contained in fovea centralis (blood vessels, yes or no?);",
+      "options": [],
+      "answer": "The fovea centralis is avascular and densely packed with cones; retinal blood vessels do not traverse the central fovea.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 7",
+      "notes": []
+    },
+    {
+      "id": "A8D-17",
+      "category": "topic-17",
+      "prompt": "Which movements are produced by the inferior oblique muscle?",
+      "original_prompt": "What movement is related to the inferior oblique muscle?",
+      "options": [],
+      "answer": "Inferior oblique primarily extorts the eye; it also elevates and abducts it.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 17",
+      "notes": []
+    },
+    {
+      "id": "A8R-17",
+      "category": "topic-17",
+      "prompt": "Which movements are produced by the inferior oblique muscle?",
+      "original_prompt": "What movement is related to the inferior oblique muscle?",
+      "options": [],
+      "answer": "Inferior oblique primarily extorts the eye; it also elevates and abducts it.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 17",
+      "notes": []
+    },
+    {
+      "id": "M17-01",
+      "category": "topic-35",
+      "prompt": "Describe the course and opening of the parotid duct.",
+      "original_prompt": "Duct of the parotid gland",
+      "options": [],
+      "answer": "Parotid (Stensen) duct crosses the masseter, turns medially at its anterior border, pierces buccinator and opens opposite the maxillary second molar.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 1",
+      "notes": [
+        "Source recall text: is crossed by branches of the facial nerve (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-02",
+      "category": "topic-36",
+      "prompt": "Describe the lymphatic drainage of the lateral anterior tongue.",
+      "original_prompt": "Lymphatic drainage of the lateral part of the tongue",
+      "options": [],
+      "answer": "The lateral anterior two-thirds of the tongue drains chiefly to ipsilateral submandibular nodes and then to deep cervical nodes.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 2",
+      "notes": []
+    },
+    {
+      "id": "A8D-03",
+      "category": "topic-35",
+      "prompt": "Describe the course and opening of the parotid duct.",
+      "original_prompt": "What's true about the parotid duct?",
+      "options": [],
+      "answer": "Parotid duct crosses the masseter, turns medially at its anterior border, pierces buccinator and opens into the oral vestibule opposite the maxillary second molar.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 3",
+      "notes": []
+    },
+    {
+      "id": "A8D-12",
+      "category": "topic-37",
+      "prompt": "Which paranasal air cells drain into the superior nasal meatus?",
+      "original_prompt": "What communicates with the superior nasal meatus?",
+      "options": [],
+      "answer": "The posterior ethmoidal air cells drain into the superior nasal meatus.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 12",
+      "notes": [
+        "Source recall text: Ethmoidal sinus (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "A8R-03",
+      "category": "topic-35",
+      "prompt": "Describe the course and opening of the parotid duct.",
+      "original_prompt": "What's true about the parotid duct?",
+      "options": [],
+      "answer": "Parotid duct crosses the masseter, turns medially at its anterior border, pierces buccinator and opens into the oral vestibule opposite the maxillary second molar.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 3",
+      "notes": []
+    },
+    {
+      "id": "A8R-12",
+      "category": "topic-37",
+      "prompt": "Which paranasal air cells drain into the superior nasal meatus?",
+      "original_prompt": "What communicates with the superior nasal meatus?",
+      "options": [],
+      "answer": "The posterior ethmoidal air cells drain into the superior nasal meatus.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 12",
+      "notes": [
+        "Source recall text: Ethmoidal sinus (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "F17-23",
+      "category": "topic-04",
+      "prompt": "Which statement about the relations of the lungs is correct?",
+      "original_prompt": "Which statement about the relations of the lungs is correct?",
+      "options": [
+        [
+          "A",
+          "The azygos vein arch is in contact with the mediastinal face of the right lung"
+        ]
+      ],
+      "answer": "A - The azygos vein arch is in contact with the mediastinal face of the right lung",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 23",
+      "notes": []
+    },
+    {
+      "id": "F17-29",
+      "category": "topic-08",
+      "prompt": "Which statement about the trachea microstructure is correct?",
+      "original_prompt": "Which statement about the trachea microstructure is correct?",
+      "options": [
+        [
+          "A",
+          "It is lined by serosa in some segments"
+        ],
+        [
+          "B",
+          "It has a simple columnar epithelium"
+        ],
+        [
+          "C",
+          "It contains a typically thick basement membrane"
+        ],
+        [
+          "D",
+          "Cartilage forms irregular structures in its walls"
+        ]
+      ],
+      "answer": "C - It contains a typically thick basement membrane",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 29",
+      "notes": []
+    },
+    {
+      "id": "F17-30",
+      "category": "topic-43",
+      "prompt": "Which statement about Clara cells is correct?",
+      "original_prompt": "Which statement about Clara cells is correct?",
+      "options": [
+        [
+          "A",
+          "They become more numerous along the length of the bronchioles"
+        ],
+        [
+          "B",
+          "They contain granules typical of protein secreting cells"
+        ],
+        [
+          "C",
+          "They secrete the lipoprotein surface active agent, also called CC16 kDa"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "D - A + B",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 30",
+      "notes": []
+    },
+    {
+      "id": "M17-03",
+      "category": "topic-06",
+      "prompt": "Describe the lymphatic drainage of the lateral breast.",
+      "original_prompt": "Lymphatic drainage of the lateral part of the mammary gland",
+      "options": [],
+      "answer": "The lateral breast drains mainly to the anterior (pectoral) group of axillary lymph nodes.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 3",
+      "notes": [
+        "Source recall text: axillary lymph nodes (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-12",
+      "category": "topic-04",
+      "prompt": "Describe the relationships at the root of the left lung.",
+      "original_prompt": "Hilum of the left lung",
+      "options": [],
+      "answer": "At the left lung root the pulmonary artery is superior to the main bronchus, and the aortic arch passes over the root/left main bronchus.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 12",
+      "notes": [
+        "Source recall text: aorta runs superiorly to left main bronchus (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-22",
+      "category": "topic-05",
+      "prompt": "Discuss pain sensitivity and afferent innervation of the pleura.",
+      "original_prompt": "Pain stimulation from visceral pleura",
+      "options": [],
+      "answer": "Visceral pleura is generally insensitive to pain. Pain from parietal pleura is carried by intercostal nerves and the phrenic nerve; visceral afferents accompany autonomic fibers.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 22",
+      "notes": [
+        "Source recall text: sympathetic splanchnic nerves (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-05",
+      "category": "topic-43",
+      "prompt": "Which statement about Clara cells is correct?",
+      "original_prompt": "Which statement about Clara cells is correct?",
+      "options": [
+        [
+          "A",
+          "They become more numerous along the length of the bronchioles"
+        ],
+        [
+          "B",
+          "They contain granules typical of protein secreting cells"
+        ],
+        [
+          "C",
+          "They secrete the lipoprotein surface active agent, also called CC16 kDa"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "D - A + B",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 5",
+      "notes": []
+    },
+    {
+      "id": "E18-12",
+      "category": "topic-04",
+      "prompt": "Which statement about the relations of the lungs is correct?",
+      "original_prompt": "Which statement about the relations of the lungs is correct?",
+      "options": [
+        [
+          "A",
+          "The right lung is in direct contact with the heart"
+        ],
+        [
+          "B",
+          "Thoracic aorta is in direct contact with the right lung"
+        ],
+        [
+          "C",
+          "The azygos vein arch is in contact with the mediastinal face of the right lung"
+        ],
+        [
+          "D",
+          "A+B"
+        ],
+        [
+          "E",
+          "A+B+C"
+        ]
+      ],
+      "answer": "C - The azygos vein arch is in contact with the mediastinal face of the right lung",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 12",
+      "notes": []
+    },
+    {
+      "id": "E19-01",
+      "category": "topic-04",
+      "prompt": "Describe the distinguishing anatomical features of the left lung.",
+      "original_prompt": "Characteristics of the left lung;",
+      "options": [],
+      "answer": "Left lung: two lobes separated by one oblique fissure, cardiac notch and lingula; it is smaller/narrower than the right lung and bears impressions related to the heart and aorta.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 1",
+      "notes": []
+    },
+    {
+      "id": "E19-06",
+      "category": "topic-43",
+      "prompt": "Which statement about the main bronchi is correct?",
+      "original_prompt": "Main bronchi:",
+      "options": [
+        [
+          "A",
+          "Same diameter and length;"
+        ],
+        [
+          "B",
+          "Same structure as trachea;"
+        ],
+        [
+          "C",
+          "Right is longer than left;"
+        ],
+        [
+          "D",
+          "A+B"
+        ],
+        [
+          "E",
+          "B+C"
+        ]
+      ],
+      "answer": "B - the main bronchi have a trachea-like wall structure. The right main bronchus is shorter, wider and more vertical than the left, not longer.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 6",
+      "notes": []
+    },
+    {
+      "id": "E19-09",
+      "category": "topic-08",
+      "prompt": "Which structures form the posterior membranous wall of the trachea?",
+      "original_prompt": "Which structure is contained in membranous part of trachea;",
+      "options": [],
+      "answer": "The posterior membranous wall of the trachea contains the trachealis smooth muscle and fibroelastic tissue.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 9",
+      "notes": []
+    },
+    {
+      "id": "A8D-19",
+      "category": "topic-43",
+      "prompt": "Which lymph nodes lie posterior to the carina?",
+      "original_prompt": "Which lymphnodes are posterior to the carina?",
+      "options": [],
+      "answer": "The likely intended answer is the inferior tracheobronchial (carinal) lymph-node group around/below the carina.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 19",
+      "notes": []
+    },
+    {
+      "id": "A8R-19",
+      "category": "topic-43",
+      "prompt": "Which lymph nodes lie posterior to the carina?",
+      "original_prompt": "Which lymphnodes are posterior to the carina?",
+      "options": [],
+      "answer": "The likely intended answer is the inferior tracheobronchial (carinal) lymph-node group around/below the carina.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 19",
+      "notes": []
+    },
+    {
+      "id": "F17-16",
+      "category": "topic-21",
+      "prompt": "Which statement about the large intestine is correct?",
+      "original_prompt": "Which statement about the large intestine is correct?",
+      "options": [
+        [
+          "A",
+          "Teniae coli are extensions of the outer longitudinal muscle layer"
+        ],
+        [
+          "B",
+          "Ascending and descending colon are suspended by a mesentery"
+        ],
+        [
+          "C",
+          "Epiploic appendices contain mainly lymphoid tissue"
+        ],
+        [
+          "D",
+          "It is mainly derived from the hindgut"
+        ]
+      ],
+      "answer": "A - Teniae coli are extensions of the outer longitudinal muscle layer",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 16",
+      "notes": []
+    },
+    {
+      "id": "F17-17",
+      "category": "topic-10",
+      "prompt": "Which statement about the blood supply of the stomach is correct?",
+      "original_prompt": "Which statement about the blood supply of the stomach is correct?",
+      "options": [
+        [
+          "A",
+          "Short gastric arteries are branches of the splenic arteries"
+        ],
+        [
+          "B",
+          "It is derived entirely from the superior mesenteric artery"
+        ],
+        [
+          "C",
+          "The left gastroepiploic artery arises directly from the celiac trunk"
+        ],
+        [
+          "D",
+          "Gastroepiploic arteries run in the lesser curvature"
+        ],
+        [
+          "E",
+          "Right gastric artery is a direct branch of the celiac trunk"
+        ]
+      ],
+      "answer": "A - Short gastric arteries are branches of the splenic arteries",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 17",
+      "notes": [
+        "Equivalent duplicate: anatomy_mcq_answers.pdf, question 4, page 4. Incoming answer D; existing answer letters remain unchanged because options are reordered."
+      ]
+    },
+    {
+      "id": "F17-18",
+      "category": "topic-20",
+      "prompt": "Which statement about the small intestine is NOT correct?",
+      "original_prompt": "Which statement about the small intestine is NOT correct?",
+      "options": [
+        [
+          "A",
+          "Most of it is intraperitoneal"
+        ],
+        [
+          "B",
+          "Jejunum has wider walls"
+        ],
+        [
+          "C",
+          "The mesentery of the ileum contains more fat"
+        ],
+        [
+          "D",
+          "Ileum has thicker walls"
+        ],
+        [
+          "E",
+          "Plicae circulares are visible in the internal surface"
+        ]
+      ],
+      "answer": "D - Ileum has thicker walls",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 18",
+      "notes": []
+    },
+    {
+      "id": "F17-19",
+      "category": "topic-16",
+      "prompt": "Which of the following relations of the oesophagus in the posterior mediastinum is correct?",
+      "original_prompt": "Which of the following relations of the oesophagus in the posterior mediastinum is correct?",
+      "options": [
+        [
+          "A",
+          "It lies posterior to the right atrium"
+        ],
+        [
+          "B",
+          "It lies on the right of azygos vein"
+        ],
+        [
+          "C",
+          "It lies anterior to aorta before piercing the diaphragm"
+        ],
+        [
+          "D",
+          "It starts at level of thyroid cartilage"
+        ]
+      ],
+      "answer": "C - It lies anterior to aorta before piercing the diaphragm",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 19",
+      "notes": []
+    },
+    {
+      "id": "M17-09",
+      "category": "topic-20",
+      "prompt": "Describe the distinguishing features of the ileum.",
+      "original_prompt": "Features of ileum",
+      "options": [],
+      "answer": "Typical ileal features are numerous arterial arcades, short vasa recta, more mesenteric fat, fewer/smaller plicae circulares and prominent Peyer patches.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 9",
+      "notes": [
+        "Source recall text: short vasa recta; numerous arterial arcades (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-10",
+      "category": "topic-10",
+      "prompt": "Describe the arterial supply to the pyloric region.",
+      "original_prompt": "Arterial supply to pylorus",
+      "options": [],
+      "answer": "The pyloric region receives supply from the right gastric artery and branches of the right gastro-omental/gastroduodenal system; the source recall specifically names the right gastric artery.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 10",
+      "notes": [
+        "Source recall text: right gastric (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-11",
+      "category": "topic-21",
+      "prompt": "Which part of the bowel may be affected by damage to the middle colic artery?",
+      "original_prompt": "Damage to the middle colic artery",
+      "options": [],
+      "answer": "The middle colic artery supplies much of the transverse colon, so injury can compromise transverse-colon perfusion.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 11",
+      "notes": [
+        "Source recall text: transverse colon is affected (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-16",
+      "category": "topic-20",
+      "prompt": "Which statement about the small intestine is NOT correct?",
+      "original_prompt": "Which statement about the small intestine is NOT correct?",
+      "options": [
+        [
+          "A",
+          "Most of it is intraperitoneal"
+        ],
+        [
+          "B",
+          "Jejunum has wider walls"
+        ],
+        [
+          "C",
+          "The mesentery of the ileum contains more fat"
+        ],
+        [
+          "D",
+          "Ileum has thicker walls"
+        ],
+        [
+          "E",
+          "Plicae circulares are visible in the internal surface"
+        ]
+      ],
+      "answer": "D - Ileum has thicker walls",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 16",
+      "notes": []
+    },
+    {
+      "id": "E18-21",
+      "category": "topic-16",
+      "prompt": "Which of the following relations of the oesophagus in the posterior mediastinum is correct?",
+      "original_prompt": "Which of the following relations of the oesophagus in the posterior mediastinum is correct?",
+      "options": [
+        [
+          "A",
+          "It lies posterior to the right atrium"
+        ],
+        [
+          "B",
+          "It lies on the right of azygos vein"
+        ],
+        [
+          "C",
+          "It lies anterior to aorta before piercing the diaphragm"
+        ],
+        [
+          "D",
+          "It starts at level of thyroid cartilage"
+        ]
+      ],
+      "answer": "C - It lies anterior to aorta before piercing the diaphragm",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 21",
+      "notes": []
+    },
+    {
+      "id": "E18-28",
+      "category": "topic-10",
+      "prompt": "Which statement about the blood supply of the stomach is correct?",
+      "original_prompt": "Which statement about the blood supply of the stomach is correct?",
+      "options": [
+        [
+          "A",
+          "Short gastric arteries are branches of the splenic arteries"
+        ],
+        [
+          "B",
+          "It is derived entirely from the superior mesenteric artery"
+        ],
+        [
+          "C",
+          "The left gastroepiploic artery arises directly from the celiac trunk"
+        ],
+        [
+          "D",
+          "Gastroepiploic arteries run in the lesser curvature"
+        ],
+        [
+          "E",
+          "Right gastric artery is a direct branch of the celiac trunk"
+        ]
+      ],
+      "answer": "A - Short gastric arteries are branches of the splenic arteries",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 28",
+      "notes": []
+    },
+    {
+      "id": "E18-29",
+      "category": "topic-21",
+      "prompt": "Which statement about the large intestine is correct?",
+      "original_prompt": "Which statement about the large intestine is correct?",
+      "options": [
+        [
+          "A",
+          "Teniae coli are extensions of the outer longitudinal muscle layer"
+        ],
+        [
+          "B",
+          "Ascending and descending colon are suspended by a mesentery"
+        ],
+        [
+          "C",
+          "Epiploic appendices contain mainly lymphoid tissue"
+        ],
+        [
+          "D",
+          "It is mainly derived from the hindgut"
+        ]
+      ],
+      "answer": "A - Teniae coli are extensions of the outer longitudinal muscle layer",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 29",
+      "notes": []
+    },
+    {
+      "id": "A8D-07",
+      "category": "topic-21",
+      "prompt": "Describe the peritoneal position and arterial supply of the descending colon.",
+      "original_prompt": "What is true about descending colon?",
+      "options": [],
+      "answer": "The descending colon is secondarily retroperitoneal on the left posterior abdominal wall and is supplied mainly by branches of the inferior mesenteric artery.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 7",
+      "notes": []
+    },
+    {
+      "id": "A8R-07",
+      "category": "topic-21",
+      "prompt": "Describe the peritoneal position and arterial supply of the descending colon.",
+      "original_prompt": "What is true about descending colon?",
+      "options": [],
+      "answer": "The descending colon is secondarily retroperitoneal on the left posterior abdominal wall and is supplied mainly by branches of the inferior mesenteric artery.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 7",
+      "notes": []
+    },
+    {
+      "id": "F17-15",
+      "category": "topic-30",
+      "prompt": "Which of the following ligaments doesn’t contain major blood vessels?",
+      "original_prompt": "Which of the following ligaments doesn’t contain major blood vessels?",
+      "options": [
+        [
+          "A",
+          "Transverse mesocolon"
+        ],
+        [
+          "B",
+          "Gastrosplenic"
+        ],
+        [
+          "C",
+          "Hepatoduodenal"
+        ],
+        [
+          "D",
+          "Splenocolic"
+        ],
+        [
+          "E",
+          "Mesentery of small intestine"
+        ]
+      ],
+      "answer": "D - Splenocolic",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 15",
+      "notes": []
+    },
+    {
+      "id": "F17-21",
+      "category": "topic-55",
+      "prompt": "Which statement about the relations of the epiploic foramen is correct?",
+      "original_prompt": "Which statement about the relations of the epiploic foramen is correct?",
+      "options": [
+        [
+          "A",
+          "The hepatic vein runs in its posterior border"
+        ],
+        [
+          "B",
+          "The second part of the duodenum forms the inferior border"
+        ],
+        [
+          "C",
+          "The common bile duct lies in its anterior border"
+        ],
+        [
+          "D",
+          "The greater omentum forms the anterior border"
+        ]
+      ],
+      "answer": "C - The common bile duct lies in its anterior border",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 21",
+      "notes": []
+    },
+    {
+      "id": "E18-20",
+      "category": "topic-55",
+      "prompt": "Which statement about the relations of the epiploic foramen is correct?",
+      "original_prompt": "Which statement about the relations of the epiploic foramen is correct?",
+      "options": [
+        [
+          "A",
+          "The hepatic vein runs in its posterior border"
+        ],
+        [
+          "B",
+          "The second part of the duodenum forms the inferior border"
+        ],
+        [
+          "C",
+          "The common bile duct lies in its anterior border"
+        ],
+        [
+          "D",
+          "The greater omentum forms the anterior border"
+        ]
+      ],
+      "answer": "C - The common bile duct lies in its anterior border",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 20",
+      "notes": []
+    },
+    {
+      "id": "E18-27",
+      "category": "topic-30",
+      "prompt": "Which of the following ligaments doesn’t contain major blood vessels?",
+      "original_prompt": "Which of the following ligaments doesn’t contain major blood vessels?",
+      "options": [
+        [
+          "A",
+          "Transverse mesocolon"
+        ],
+        [
+          "B",
+          "Gatrosplenic"
+        ],
+        [
+          "C",
+          "Hepatoduodenal"
+        ],
+        [
+          "D",
+          "Splenocolic"
+        ],
+        [
+          "E",
+          "Mesentery of small intestine"
+        ]
+      ],
+      "answer": "D - Splenocolic",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 27",
+      "notes": []
+    },
+    {
+      "id": "A8D-05",
+      "category": "topic-55",
+      "prompt": "Into which peritoneal space may gastric contents leak after a stomach perforation?",
+      "original_prompt": "If you have a hole in the stomach where is the gastric fluid going to drain?",
+      "options": [],
+      "answer": "It depends on the site of perforation: a posterior-wall perforation can leak into the lesser sac, whereas an anterior-wall perforation enters the greater peritoneal sac.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 5",
+      "notes": []
+    },
+    {
+      "id": "A8D-06",
+      "category": "topic-31",
+      "prompt": "Which anatomical landmarks lie at the transpyloric plane?",
+      "original_prompt": "What crosses the trans-pyloric plane?",
+      "options": [],
+      "answer": "The transpyloric plane is at about L1 and crosses the pylorus, neck of pancreas, renal hila (especially the left near the plane), origin of the superior mesenteric artery, and related upper-abdominal landmarks.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 6",
+      "notes": []
+    },
+    {
+      "id": "A8D-08",
+      "category": "topic-30",
+      "prompt": "Which structures are secondarily retroperitoneal?",
+      "original_prompt": "Which of this is secondary retroperineal?",
+      "options": [],
+      "answer": "Classic secondarily retroperitoneal structures include the 2nd-4th parts of duodenum, pancreas except its tail, and ascending and descending colon.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 8",
+      "notes": []
+    },
+    {
+      "id": "A8R-05",
+      "category": "topic-55",
+      "prompt": "Into which peritoneal space may gastric contents leak after a stomach perforation?",
+      "original_prompt": "If you have a hole in the stomach where is the gastric fluid going to drain?",
+      "options": [],
+      "answer": "It depends on the site of perforation: a posterior-wall perforation can leak into the lesser sac, whereas an anterior-wall perforation enters the greater peritoneal sac.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 5",
+      "notes": []
+    },
+    {
+      "id": "A8R-06",
+      "category": "topic-31",
+      "prompt": "Which anatomical landmarks lie at the transpyloric plane?",
+      "original_prompt": "What crosses the trans-pyloric plane?",
+      "options": [],
+      "answer": "The transpyloric plane is at about L1 and crosses the pylorus, neck of pancreas, renal hila (especially the left near the plane), origin of the superior mesenteric artery, and related upper-abdominal landmarks.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 6",
+      "notes": []
+    },
+    {
+      "id": "A8R-08",
+      "category": "topic-30",
+      "prompt": "Which structures are secondarily retroperitoneal?",
+      "original_prompt": "Which of this is secondary retroperineal?",
+      "options": [],
+      "answer": "Classic secondarily retroperitoneal structures include the 2nd-4th parts of duodenum, pancreas except its tail, and ascending and descending colon.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 8",
+      "notes": []
+    },
+    {
+      "id": "F17-20",
+      "category": "topic-52",
+      "prompt": "The gallbladder lies in the gallbladder fossa between:",
+      "original_prompt": "The gallbladder lies in the gallbladder fossa between:",
+      "options": [
+        [
+          "A",
+          "Right and left lobes of liver"
+        ],
+        [
+          "B",
+          "Right and quadrate lobes of liver"
+        ],
+        [
+          "C",
+          "Left and caudate lobes of liver"
+        ],
+        [
+          "D",
+          "Right and caudate lobes of liver"
+        ],
+        [
+          "E",
+          "Quadrate and caudate lobes of liver"
+        ]
+      ],
+      "answer": "B - Right and quadrate lobes of liver",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 20",
+      "notes": []
+    },
+    {
+      "id": "F17-28",
+      "category": "topic-07",
+      "prompt": "Which statement about the liver microstructure is correct?",
+      "original_prompt": "Which statement about the liver microstructure is correct?",
+      "options": [
+        [
+          "A",
+          "Sinusoids reverse into central veins"
+        ],
+        [
+          "B",
+          "Classic lobules are quadrangular structures"
+        ],
+        [
+          "C",
+          "Portal canals have three components"
+        ],
+        [
+          "D",
+          "It doesn’t have an outer connective tissue capsule"
+        ]
+      ],
+      "answer": "A - Sinusoids reverse into central veins",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 28",
+      "notes": []
+    },
+    {
+      "id": "M17-08",
+      "category": "topic-07",
+      "prompt": "Which structure separates the caudate lobe from the left lobe of the liver?",
+      "original_prompt": "In the liver, which structure divides the caudate from the left lobe",
+      "options": [],
+      "answer": "The fissure for the ligamentum venosum separates the caudate lobe from the left lobe on the visceral surface of the liver.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 8",
+      "notes": [
+        "Source recall text: ligamentum venosum (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-11",
+      "category": "topic-07",
+      "prompt": "Which statement about the liver microstructure is correct?",
+      "original_prompt": "Which statement about the liver microstructure is correct?",
+      "options": [
+        [
+          "A",
+          "Sinusoids reverse into central veins"
+        ],
+        [
+          "B",
+          "Classic lobules are quadrangular structures"
+        ],
+        [
+          "C",
+          "Portal canals have three components"
+        ],
+        [
+          "D",
+          "It doesn’t have an outer connective tissue capsule"
+        ]
+      ],
+      "answer": "A - Sinusoids reverse into central veins",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 11",
+      "notes": []
+    },
+    {
+      "id": "E18-17",
+      "category": "topic-52",
+      "prompt": "The gallbladder lies in the gallbladder fossa between:",
+      "original_prompt": "The gallbladder lies in the gallbladder fossa between:",
+      "options": [
+        [
+          "A",
+          "Left and quadrate lobes of liver"
+        ],
+        [
+          "B",
+          "Right and quadrate lobes of liver"
+        ],
+        [
+          "C",
+          "Left and caudate lobes of liver"
+        ],
+        [
+          "D",
+          "Right and caudate lobes of liver"
+        ],
+        [
+          "E",
+          "Quadrate and caudate lobes of liver"
+        ]
+      ],
+      "answer": "B - Right and quadrate lobes of liver",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 17",
+      "notes": [
+        "Equivalent duplicate: anatomy_mcq_answers.pdf, question 2, page 3. Incoming answer E; existing answer letters remain unchanged because options are reordered."
+      ]
+    },
+    {
+      "id": "E19-05",
+      "category": "topic-07",
+      "prompt": "Which structures are not components of the portal triad?",
+      "original_prompt": "What is not contained in portal triad;",
+      "options": [],
+      "answer": "The portal triad contains a branch of portal vein, hepatic artery and bile duct. Hepatic veins/central veins are not part of the portal triad.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 5",
+      "notes": []
+    },
+    {
+      "id": "E19-27",
+      "category": "topic-53",
+      "prompt": "Identify the labeled structure in the extrahepatic biliary system. [Figure missing.]",
+      "original_prompt": "(picture of extrahepatic bile canals system with letters) correct match.",
+      "options": [],
+      "answer": "Cannot determine from the supplied source: the question depends on a missing labeled figure and no answer text is provided.",
+      "status": "UNRESOLVED",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 27",
+      "notes": [
+        "Source note: Referenced picture is not present as a visible embedded image in the supplied file."
+      ]
+    },
+    {
+      "id": "A8D-09",
+      "category": "topic-52",
+      "prompt": "Where does the cystic artery come from?",
+      "original_prompt": "Where does the cystic artery come from?",
+      "options": [],
+      "answer": "The cystic artery usually arises from the right hepatic artery within the hepatocystic triangle.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 9",
+      "notes": []
+    },
+    {
+      "id": "A8R-09",
+      "category": "topic-52",
+      "prompt": "Where does the cystic artery come from?",
+      "original_prompt": "Where does the cystic artery come from?",
+      "options": [],
+      "answer": "The cystic artery usually arises from the right hepatic artery within the hepatocystic triangle.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 9",
+      "notes": []
+    },
+    {
+      "id": "E19-12",
+      "category": "topic-40",
+      "prompt": "Which structures lie posterior to the head of the pancreas?",
+      "original_prompt": "Which structure is behind head of pancreas;",
+      "options": [],
+      "answer": "The inferior vena cava lies posterior to the head of the pancreas; the common bile duct also runs in a groove/on the posterior surface of the pancreatic head.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 12",
+      "notes": []
+    },
+    {
+      "id": "F17-24",
+      "category": "topic-02",
+      "prompt": "Which statement best describes the ureter?",
+      "original_prompt": "Which statement best describes the ureter?",
+      "options": [
+        [
+          "A",
+          "It is narrowest as it crosses the transverse process of L4"
+        ],
+        [
+          "B",
+          "It is crossed anteriorly by gonadal vessels"
+        ],
+        [
+          "C",
+          "It courses superior to uterine vessels"
+        ],
+        [
+          "D",
+          "Has a blood supply from external iliac arteries"
+        ],
+        [
+          "E",
+          "Is crossed anteriorly by the root of the mesentery on the left"
+        ]
+      ],
+      "answer": "B - It is crossed anteriorly by gonadal vessels",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 24",
+      "notes": []
+    },
+    {
+      "id": "F17-27",
+      "category": "topic-01",
+      "prompt": "Which statement about medullary rays is correct?",
+      "original_prompt": "Which statement about medullary rays is correct?",
+      "options": [
+        [
+          "A",
+          "They are within the renal medulla"
+        ],
+        [
+          "B",
+          "They are in the centre of renal lobules"
+        ],
+        [
+          "C",
+          "They contain thin segments of the loop of Henle"
+        ],
+        [
+          "D",
+          "They extend between renal pyramids"
+        ]
+      ],
+      "answer": "B - They are in the centre of renal lobules",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 27",
+      "notes": []
+    },
+    {
+      "id": "M17-05",
+      "category": "topic-02",
+      "prompt": "Describe the course, crossings, and termination of the ureters.",
+      "original_prompt": "Ureters",
+      "options": [],
+      "answer": "Ureters descend retroperitoneally; gonadal vessels cross them anteriorly. They cross the iliac vessels at the pelvic brim and enter the posterolateral bladder wall obliquely at the ureteric angles of the trigone.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 5",
+      "notes": [
+        "Source recall text: are crossed anteriorly by gonadal vessels; end in the posterolateral part of the trigone of the bladder; at the pelvic brim, cross anteriorly the common iliac vessels as they bifurcate (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-06",
+      "category": "topic-01",
+      "prompt": "Which statement about medullary rays is correct?",
+      "original_prompt": "Which statement about medullary rays is correct?",
+      "options": [
+        [
+          "A",
+          "They are within the renal medulla"
+        ],
+        [
+          "B",
+          "They are in the centre of renal lobules"
+        ],
+        [
+          "C",
+          "They contain thin segments of the loop of Henle"
+        ],
+        [
+          "D",
+          "They extend between renal pyramids"
+        ]
+      ],
+      "answer": "B - They are in the centre of renal lobules",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 6",
+      "notes": []
+    },
+    {
+      "id": "E18-13",
+      "category": "topic-02",
+      "prompt": "Which statement best describes the ureter?",
+      "original_prompt": "Which statement best describes the ureter?",
+      "options": [
+        [
+          "A",
+          "It is narrowest as it crosses the transverse process of L4"
+        ],
+        [
+          "B",
+          "It is crossed anteriorly by gonadal vessels"
+        ],
+        [
+          "C",
+          "It courses superior to uterine vessels"
+        ],
+        [
+          "D",
+          "Has a blood supply from external iliac arteries"
+        ],
+        [
+          "E",
+          "Is crossed anteriorly by the root of the mesentery on the left"
+        ]
+      ],
+      "answer": "B - It is crossed anteriorly by gonadal vessels",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 13",
+      "notes": []
+    },
+    {
+      "id": "E19-08",
+      "category": "topic-01",
+      "prompt": "Describe the position and anatomical relationships of the kidneys.",
+      "original_prompt": "Question about relationships of kidneys;",
+      "options": [],
+      "answer": "Kidneys are retroperitoneal, approximately T12-L3, with the right kidney lower. Posterior relations include diaphragm, psoas major, quadratus lumborum and transversus abdominis; anterior relations differ on the right and left.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 8",
+      "notes": []
+    },
+    {
+      "id": "E19-13",
+      "category": "topic-01",
+      "prompt": "Identify the labeled structure in the nephron diagram. [Figure missing.]",
+      "original_prompt": "(Picture of nephron with letters) correct match",
+      "options": [],
+      "answer": "Source recall identifies juxtaglomerular cells; the exact labeled structure/letter cannot be independently recovered because the referenced figure is missing.",
+      "status": "SOURCE RECALL",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 13",
+      "notes": [
+        "Source recall text: juxtaglomerular cells (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E19-22",
+      "category": "topic-02",
+      "prompt": "Describe the parts, constrictions, and vascular relationships of the ureters.",
+      "original_prompt": "position and relationships of ureters (how many constrictions, if they can be divided in two parts and if they are anterior to iliac vessels);",
+      "options": [],
+      "answer": "The ureter has abdominal and pelvic parts and three classic constrictions: ureteropelvic junction, crossing of iliac vessels at the pelvic brim, and ureterovesical junction. It passes anterior to the iliac vessels at the brim.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 22",
+      "notes": []
+    },
+    {
+      "id": "E19-26",
+      "category": "topic-01",
+      "prompt": "Which statement about juxtamedullary nephrons is correct?",
+      "original_prompt": "about juxtamedullary nephrons:",
+      "options": [
+        [
+          "A",
+          "they don’t produce renin;"
+        ],
+        [
+          "B",
+          "they have a short loop of Henle;"
+        ],
+        [
+          "C",
+          "their efferent arteriole follows the tubule to form vasa recta;"
+        ],
+        [
+          "D",
+          "they are located in outer cortex;"
+        ],
+        [
+          "E",
+          "they are located in the medulla."
+        ]
+      ],
+      "answer": "C - efferent arterioles of juxtamedullary nephrons form the vasa recta. Juxtamedullary nephrons have long loops of Henle and lie near the corticomedullary junction.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 26",
+      "notes": []
+    },
+    {
+      "id": "A8D-01",
+      "category": "topic-14",
+      "prompt": "Identify the region between the ureteric orifices. [The recalled wording does not distinguish the trigone from the interureteric crest.]",
+      "original_prompt": "What is the space between the two uretheric orifices....?",
+      "options": [],
+      "answer": "The source text says \"TRIGONE.\" Anatomically, the trigone is the triangular area bounded by the two ureteric orifices and the internal urethral orifice; the ridge specifically between the ureteric orifices is the interureteric crest.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 1",
+      "notes": [
+        "Source recall text: TRIGONE (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "A8R-01",
+      "category": "topic-14",
+      "prompt": "Identify the region between the ureteric orifices. [The recalled wording does not distinguish the trigone from the interureteric crest.]",
+      "original_prompt": "What is the space between the two uretheric orifices....?",
+      "options": [],
+      "answer": "The source text says \"TRIGONE.\" Anatomically, the trigone is the triangular area bounded by the two ureteric orifices and the internal urethral orifice; the ridge specifically between the ureteric orifices is the interureteric crest.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 1",
+      "notes": [
+        "Source recall text: TRIGONE (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "F17-22",
+      "category": "topic-11",
+      "prompt": "Testicular cancer is most likely to spread to which lymph nodes?",
+      "original_prompt": "A cancer of the testes is more likely to spread in the:",
+      "options": [
+        [
+          "A",
+          "Internal iliac lymph nodes"
+        ],
+        [
+          "B",
+          "Superficial inguinal lymph nodes"
+        ],
+        [
+          "C",
+          "Celiac lymph nodes"
+        ],
+        [
+          "D",
+          "Lumbar lymph nodes"
+        ],
+        [
+          "E",
+          "External iliac lymph nodes"
+        ]
+      ],
+      "answer": "D - Lumbar lymph nodes",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 22",
+      "notes": []
+    },
+    {
+      "id": "F17-26",
+      "category": "topic-11",
+      "prompt": "Which of the following is a product of Sertoli cells?",
+      "original_prompt": "Which of the following is a product of Sertoli cells?",
+      "options": [
+        [
+          "A",
+          "Follicle stimulating hormone"
+        ],
+        [
+          "B",
+          "Progesterone"
+        ],
+        [
+          "C",
+          "Interstitial cells-inhibiting hormone"
+        ],
+        [
+          "D",
+          "Testosterone"
+        ],
+        [
+          "E",
+          "Transferrin"
+        ]
+      ],
+      "answer": "E - Transferrin",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 26",
+      "notes": []
+    },
+    {
+      "id": "E18-07",
+      "category": "topic-11",
+      "prompt": "Which of the following is a product of Sertoli cells?",
+      "original_prompt": "Which of the following is a product of Sertoli cells?",
+      "options": [
+        [
+          "A",
+          "Transferrin"
+        ],
+        [
+          "B",
+          "Progesterone"
+        ],
+        [
+          "C",
+          "Interstitial cells-inhibiting hormone"
+        ],
+        [
+          "D",
+          "Testosterone"
+        ],
+        [
+          "E",
+          "Follicle stimulating hormone"
+        ]
+      ],
+      "answer": "A - Transferrin",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 7",
+      "notes": []
+    },
+    {
+      "id": "E18-19",
+      "category": "topic-11",
+      "prompt": "Testicular cancer is most likely to spread to which lymph nodes?",
+      "original_prompt": "A cancer of the testes is more likely to spread in the:",
+      "options": [
+        [
+          "A",
+          "Internal iliac lymph nodes"
+        ],
+        [
+          "B",
+          "Superficial inguinal lymph nodes"
+        ],
+        [
+          "C",
+          "Celiac lymph nodes"
+        ],
+        [
+          "D",
+          "Lumbar lymph nodes"
+        ],
+        [
+          "E",
+          "External iliac lymph nodes"
+        ]
+      ],
+      "answer": "D - Lumbar lymph nodes",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 19",
+      "notes": []
+    },
+    {
+      "id": "E19-11",
+      "category": "topic-11",
+      "prompt": "Which substances are not produced by Sertoli cells?",
+      "original_prompt": "What DO NOT produce Sertoli cells;",
+      "options": [],
+      "answer": "Sertoli cells do not produce testosterone - Leydig cells do. Sertoli cells produce inhibin B, androgen-binding protein, anti-Mullerian hormone in fetal life, transferrin and supportive factors.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 11",
+      "notes": []
+    },
+    {
+      "id": "E19-18",
+      "category": "topic-11",
+      "prompt": "Describe the coverings of the testis and the positions of the epididymis and ductus deferens.",
+      "original_prompt": "coverings of testes and position of epididymis and ductus deferens;",
+      "options": [],
+      "answer": "Testis coverings include tunica vaginalis, tunica albuginea and tunica vasculosa. Epididymis lies posterolaterally; the ductus deferens continues from the epididymal tail and ascends in the spermatic cord.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 18",
+      "notes": []
+    },
+    {
+      "id": "A8D-16",
+      "category": "topic-11",
+      "prompt": "What is secreted by Sertoli cells?",
+      "original_prompt": "What is secreted by Sertoli cells?",
+      "options": [],
+      "answer": "Sertoli cells secrete inhibin B, androgen-binding protein, transferrin and supportive factors; in fetal life they also secrete anti-Mullerian hormone.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 16",
+      "notes": []
+    },
+    {
+      "id": "A8R-16",
+      "category": "topic-11",
+      "prompt": "What is secreted by Sertoli cells?",
+      "original_prompt": "What is secreted by Sertoli cells?",
+      "options": [],
+      "answer": "Sertoli cells secrete inhibin B, androgen-binding protein, transferrin and supportive factors; in fetal life they also secrete anti-Mullerian hormone.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 16",
+      "notes": []
+    },
+    {
+      "id": "M17-06",
+      "category": "topic-32",
+      "prompt": "Describe anteflexion of the uterus.",
+      "original_prompt": "In an anteflexed uterus",
+      "options": [],
+      "answer": "Anteflexion means the uterine body is bent anteriorly relative to the cervix; the normal uterus is commonly both anteverted and anteflexed.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 6",
+      "notes": [
+        "Source recall text: cervix represents the inferior 1/3 (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E19-02",
+      "category": "topic-12",
+      "prompt": "Describe the ovarian medulla and its relationship to the hilum.",
+      "original_prompt": "Ovary",
+      "options": [],
+      "answer": "Ovarian medulla is continuous with the hilum and contains vessels, nerves and connective tissue; hilar (Leydig-like) cells may be present.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 2",
+      "notes": [
+        "Source recall text: medulla is continuous with hilum and contains Leydig-like cells (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E19-03",
+      "category": "topic-12",
+      "prompt": "Which ovarian attachments carry blood vessels?",
+      "original_prompt": "Ligaments of ovaries that contain blood vessels;",
+      "options": [],
+      "answer": "The suspensory (infundibulopelvic) ligament of the ovary contains the ovarian vessels; vessels reach the ovary through the mesovarium.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 3",
+      "notes": []
+    },
+    {
+      "id": "E19-20",
+      "category": "topic-32",
+      "prompt": "Which statements about the uterus and cervix are correct? [Recalled options may not support one secure answer.]",
+      "original_prompt": "what is true about uterus:",
+      "options": [
+        [
+          "A",
+          "endometrium of neck does not slough off during menstruation;"
+        ],
+        [
+          "B",
+          "endometrium consists of a basal and functional layer;"
+        ],
+        [
+          "C",
+          "ectocervix is lined with stratified squamous epithelium;"
+        ],
+        [
+          "D",
+          "glands in the cervix are branched tubuloalveolar;"
+        ],
+        [
+          "E",
+          "all of the above."
+        ]
+      ],
+      "answer": "As recalled, more than one statement is true: cervical mucosa is not shed during menstruation; uterine endometrium has basal and functional layers; ectocervix is stratified squamous. Cervical glands are usually described as branched tubular, so \"all of the above\" is not secure.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 20",
+      "notes": []
+    },
+    {
+      "id": "F17-25",
+      "category": "topic-44",
+      "prompt": "Which statement best describes adrenal glands?",
+      "original_prompt": "Which statement best describes adrenal glands?",
+      "options": [
+        [
+          "A",
+          "Corticosteroids are products of the zona glomerulosa"
+        ],
+        [
+          "B",
+          "Ovoid cords of cells are found in zona fasciculata"
+        ],
+        [
+          "C",
+          "It receives arterial supply from the inferior phrenic, abdominal aorta and renal arteries"
+        ],
+        [
+          "D",
+          "The left adrenal gland is pyramidal in shape"
+        ]
+      ],
+      "answer": "C - It receives arterial supply from the inferior phrenic, abdominal aorta and renal arteries",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II Exam 27-02-17 · original question 25",
+      "notes": []
+    },
+    {
+      "id": "M17-04",
+      "category": "topic-44",
+      "prompt": "Describe the blood supply and cortical hormone production of the adrenal gland.",
+      "original_prompt": "Adrenal gland",
+      "options": [],
+      "answer": "Suprarenal arterial supply: superior suprarenal arteries from inferior phrenic, middle from aorta, inferior from renal artery. Zona glomerulosa produces mineralocorticoids; zona fasciculata produces glucocorticoids.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 4",
+      "notes": [
+        "Source recall text: blood supply from inferior phrenic, abdominal aorta and renal arteries; glucocorticoids are produced by zona glomerulosa (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E18-22",
+      "category": "topic-15",
+      "prompt": "Which structure can be compressed by a pituitary mass?",
+      "original_prompt": "A cancer (only) in the pituitary gland which structure can compress?",
+      "options": [
+        [
+          "A",
+          "internal carotid artery"
+        ],
+        [
+          "B",
+          "mammillary bodies"
+        ],
+        [
+          "C",
+          "optic chiasm"
+        ],
+        [
+          "D",
+          "hypothalamus"
+        ],
+        [
+          "E",
+          "olfactory bulb"
+        ]
+      ],
+      "answer": "C - optic chiasm",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 22",
+      "notes": []
+    },
+    {
+      "id": "E18-30",
+      "category": "topic-44",
+      "prompt": "Which statement best describes adrenal glands?",
+      "original_prompt": "Which statement best describes adrenal glands?",
+      "options": [
+        [
+          "A",
+          "cortisol is produced of the zona glomerulosa"
+        ],
+        [
+          "B",
+          "Ovoid cords of cells are found in zona fasciculata"
+        ],
+        [
+          "C",
+          "It receives arterial supply from the inferior phrenic, abdominal aorta and renal arteries"
+        ],
+        [
+          "D",
+          "A+B"
+        ],
+        [
+          "E",
+          "A+B+C"
+        ]
+      ],
+      "answer": "C - It receives arterial supply from the inferior phrenic, abdominal aorta and renal arteries",
+      "status": "SOURCE KEY",
+      "source": "Anatomy II 18-01-2018 · original question 30",
+      "notes": []
+    },
+    {
+      "id": "E19-15",
+      "category": "topic-13",
+      "prompt": "Describe thyroid hormone production and distinguish follicular cells from C cells.",
+      "original_prompt": "production of thyroid hormones;",
+      "options": [],
+      "answer": "Thyroid follicular cells synthesize T3/T4 by iodination and coupling of thyroglobulin in colloid under TSH control; parafollicular C cells secrete calcitonin.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 15",
+      "notes": []
+    },
+    {
+      "id": "E19-21",
+      "category": "topic-15",
+      "prompt": "Describe the position and anatomical relationships of the pituitary gland.",
+      "original_prompt": "question about pituitary gland;",
+      "options": [],
+      "answer": "The pituitary lies in the hypophyseal fossa of the sella turcica and connects to hypothalamus by the infundibulum. The optic chiasm is superior and cavernous sinuses are lateral.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 21",
+      "notes": []
+    },
+    {
+      "id": "E19-25",
+      "category": "topic-44",
+      "prompt": "Describe adrenal cortical zones, medullary secretion, and arterial supply.",
+      "original_prompt": "question about adrenal gland;",
+      "options": [],
+      "answer": "Adrenal cortex: zona glomerulosa - mineralocorticoids; fasciculata - glucocorticoids; reticularis - androgens. Medulla produces catecholamines. Arterial supply is via superior, middle and inferior suprarenal arteries.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 25",
+      "notes": []
+    },
+    {
+      "id": "A8D-04",
+      "category": "topic-44",
+      "prompt": "Describe the shape, position, and relationships of the right adrenal gland.",
+      "original_prompt": "What's true of the right adrenal gland?",
+      "options": [],
+      "answer": "The right suprarenal gland is pyramidal and lies superomedial to the right kidney, with the inferior vena cava anterior/medial to it. The source states that it is attached to the superior part of the right kidney.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 4",
+      "notes": [
+        "Source recall text: It is attached to the superior part of the right kidney (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "A8R-04",
+      "category": "topic-44",
+      "prompt": "Describe the shape, position, and relationships of the right adrenal gland.",
+      "original_prompt": "What's true of the right adrenal gland?",
+      "options": [],
+      "answer": "The right suprarenal gland is pyramidal and lies superomedial to the right kidney, with the inferior vena cava anterior/medial to it. The source states that it is attached to the superior part of the right kidney.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 4",
+      "notes": [
+        "Source recall text: It is attached to the superior part of the right kidney (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "M17-07",
+      "category": "topic-33",
+      "prompt": "Which structure lies superficial to the perineal membrane?",
+      "original_prompt": "Which structure is superficial to the perineal membrane",
+      "options": [],
+      "answer": "Bulbospongiosus is superficial to the perineal membrane in the superficial perineal pouch.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Exam 22-03-17 · original question 7",
+      "notes": [
+        "Source recall text: bulbospongiosum (preserved for traceability; not treated as a validated answer key)"
+      ]
+    },
+    {
+      "id": "E19-19",
+      "category": "topic-22",
+      "prompt": "Describe the position and vascular supply of the rectum.",
+      "original_prompt": "Vasculature and position of rectum;",
+      "options": [],
+      "answer": "Rectum begins near S3 and follows the sacral curve. Arterial supply is superior rectal (IMA), middle rectal (internal iliac) and inferior rectal (internal pudendal); venous drainage has both portal and systemic pathways.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy II Written Exam 18-01-2019 · original question 19",
+      "notes": []
+    },
+    {
+      "id": "A8D-02",
+      "category": "topic-33",
+      "prompt": "What lies in the superior perineal space? [Term interpreted as the deep perineal pouch in the supplied answer.]",
+      "original_prompt": "What lies in the superior perineal space?",
+      "options": [],
+      "answer": "If \"superior perineal space\" refers to the deep perineal pouch: it contains the external urethral sphincter complex, deep transverse perineal muscles and associated urethral/neurovascular structures.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (DOCX) · original question 2",
+      "notes": []
+    },
+    {
+      "id": "A8R-02",
+      "category": "topic-33",
+      "prompt": "What lies in the superior perineal space? [Term interpreted as the deep perineal pouch in the supplied answer.]",
+      "original_prompt": "What lies in the superior perineal space?",
+      "options": [],
+      "answer": "If \"superior perineal space\" refers to the deep perineal pouch: it contains the external urethral sphincter complex, deep transverse perineal muscles and associated urethral/neurovascular structures.",
+      "status": "STUDY ANSWER",
+      "source": "Anatomy Exam 08.02 (RTF) · original question 2",
+      "notes": []
+    },
+    {
+      "id": "MCQ-01",
+      "category": "topic-16",
+      "prompt": "Indicate the correct statement regarding anatomic relationships of the esophagus:",
+      "original_prompt": "Indicate the correct statement regarding anatomic relationships of the esophagus:",
+      "options": [
+        [
+          "A",
+          "It begins at the level of the thyroid cartilage"
+        ],
+        [
+          "B",
+          "In the superior mediastinum, the left brachiocephalic vein constricts the esophagus"
+        ],
+        [
+          "C",
+          "It passes through the diaphragm at the T8 level"
+        ],
+        [
+          "D",
+          "In the posterior mediastinum, it passes anterior to the aorta before crossing the diaphragm"
+        ],
+        [
+          "E",
+          "In the posterior mediastinum, it lies posterior to the right atrium"
+        ]
+      ],
+      "answer": "D — In the posterior mediastinum, it passes anterior to the aorta before crossing the diaphragm\n\nThe oesophagus passes through the diaphragm at T10 and, low in the posterior mediastinum, sweeps anterior to the descending aorta. It lies posterior to the left atrium, not the right atrium.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 1 · source PDF page 2",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-19. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-03",
+      "category": "topic-07",
+      "prompt": "Which of the following statements concerning liver sinusoids is true?",
+      "original_prompt": "Which of the following statements concerning liver sinusoids is true?",
+      "options": [
+        [
+          "A",
+          "They are continuous with bile canaliculi"
+        ],
+        [
+          "B",
+          "They are surrounded by a continuous basal lamina"
+        ],
+        [
+          "C",
+          "They deliver blood to the central vein"
+        ],
+        [
+          "D",
+          "They are lined by non-fenestrated endothelial cells"
+        ],
+        [
+          "E",
+          "They perfuse only hepatocytes of the peripheral zone"
+        ]
+      ],
+      "answer": "C — They deliver blood to the central vein\n\nHepatic sinusoids carry mixed portal and arterial blood toward the central vein. Their endothelium is fenestrated and they do not have a continuous basal lamina.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 3 · source PDF page 3",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-28. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-05",
+      "category": "topic-55",
+      "prompt": "Which statement about the borders of the epiploic foramen is correct?",
+      "original_prompt": "Which statement about the borders of the epiploic foramen is correct?",
+      "options": [
+        [
+          "A",
+          "The common bile duct is contained within the anterior border"
+        ],
+        [
+          "B",
+          "The second part of the duodenum forms the inferior border"
+        ],
+        [
+          "C",
+          "The quadrate lobe of the liver forms the superior border"
+        ],
+        [
+          "D",
+          "The hepatic vein forms the posterior border"
+        ],
+        [
+          "E",
+          "Not visible in the uploaded photograph"
+        ]
+      ],
+      "answer": "A — The common bile duct is contained within the anterior border\n\nThe anterior boundary of the epiploic foramen is the hepatoduodenal ligament, which contains the portal triad including the common bile duct.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 5 · source PDF page 4",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-21. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key. Option E was not visible in the source photograph and remains explicitly marked."
+      ]
+    },
+    {
+      "id": "MCQ-06",
+      "category": "topic-21",
+      "prompt": "Which of the following statements best describes the colon?",
+      "original_prompt": "Which of the following statements best describes the colon?",
+      "options": [
+        [
+          "A",
+          "The majority is derived from the primitive hindgut"
+        ],
+        [
+          "B",
+          "It is usually invested with peritoneum on all sides"
+        ],
+        [
+          "C",
+          "The ascending and descending colon are primarily retroperitoneal"
+        ],
+        [
+          "D",
+          "The appendices epiploicae are composed of lymphoid tissue"
+        ],
+        [
+          "E",
+          "Its three taenia are formed by the outer longitudinal layer of the muscularis externa"
+        ]
+      ],
+      "answer": "E — Its three taenia are formed by the outer longitudinal layer of the muscularis externa\n\nThe three taeniae coli are condensations of the outer longitudinal layer of the muscularis externa. The ascending and descending colon are secondarily, not primarily, retroperitoneal.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 6 · source PDF page 5",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-16. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-07",
+      "category": "topic-19",
+      "prompt": "Which statement about the dorsal spinocerebellar tract is accurate?",
+      "original_prompt": "Which statement about the dorsal spinocerebellar tract is accurate?",
+      "options": [
+        [
+          "A",
+          "It lies lateral to the lateral corticospinal tract"
+        ],
+        [
+          "B",
+          "It begins at about the level of the second or third lumbar segment"
+        ],
+        [
+          "C",
+          "It passes through the inferior cerebellar peduncle"
+        ],
+        [
+          "D",
+          "It terminates ipsilaterally in the cerebellar vermis"
+        ],
+        [
+          "E",
+          "All of the above"
+        ]
+      ],
+      "answer": "E — All of the above\n\nAll four statements are standard features of the dorsal spinocerebellar tract: it lies lateral to the lateral corticospinal tract, begins around L2-L3, enters through the inferior cerebellar peduncle, and terminates ipsilaterally in the vermis/paravermis.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 7 · source PDF page 5",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-08",
+      "category": "topic-11",
+      "prompt": "Which one of the following secretions is attributed to the Sertoli cells?",
+      "original_prompt": "Which one of the following secretions is attributed to the Sertoli cells?",
+      "options": [
+        [
+          "A",
+          "Transferrin"
+        ],
+        [
+          "B",
+          "Follicle-stimulating hormone"
+        ],
+        [
+          "C",
+          "Testosterone"
+        ],
+        [
+          "D",
+          "Luteinizing hormone"
+        ],
+        [
+          "E",
+          "Interstitial cell-stimulating hormone"
+        ]
+      ],
+      "answer": "A — Transferrin\n\nSertoli cells synthesize substances including transferrin, inhibin, androgen-binding protein and anti-Mullerian hormone. Testosterone is produced by Leydig cells.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 8 · source PDF page 6",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: E18-07. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-09",
+      "category": "topic-11",
+      "prompt": "Cancer of the testis most likely metastasizes first to which of the following lymph nodes?",
+      "original_prompt": "Cancer of the testis most likely metastasizes first to which of the following lymph nodes?",
+      "options": [
+        [
+          "A",
+          "Deep inguinal"
+        ],
+        [
+          "B",
+          "Lumbar"
+        ],
+        [
+          "C",
+          "Superficial inguinal"
+        ],
+        [
+          "D",
+          "External iliac"
+        ],
+        [
+          "E",
+          "Internal iliac"
+        ]
+      ],
+      "answer": "B — Lumbar\n\nTesticular lymph follows the gonadal vessels to the lumbar (para-aortic) lymph nodes.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 9 · source PDF page 6",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-22. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-10",
+      "category": "topic-44",
+      "prompt": "The adrenal gland:",
+      "original_prompt": "The adrenal gland:",
+      "options": [
+        [
+          "A",
+          "Secretes cortisol from the zona glomerulosa of the cortex"
+        ],
+        [
+          "B",
+          "Is supplied by branches of the inferior phrenic artery, the renal artery, and the aorta"
+        ],
+        [
+          "C",
+          "Is drained by the suprarenal vein reaching the inferior vena cava on the left and the renal vein on the right"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "B — Is supplied by branches of the inferior phrenic artery, the renal artery, and the aorta\n\nThe suprarenal gland receives superior, middle and inferior suprarenal arteries from the inferior phrenic artery, aorta and renal artery. Cortisol is mainly from zona fasciculata, and venous drainage is right to IVC and left to left renal vein.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 10 · source PDF page 7",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: E18-30. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-12",
+      "category": "topic-07",
+      "prompt": "The structure that separates the quadrate lobe from the left lobe of the liver is the:",
+      "original_prompt": "The structure that separates the quadrate lobe from the left lobe of the liver is the:",
+      "options": [
+        [
+          "A",
+          "Ligamentum venosum"
+        ],
+        [
+          "B",
+          "Inferior vena cava"
+        ],
+        [
+          "C",
+          "Falciform ligament"
+        ],
+        [
+          "D",
+          "Round ligament (ligamentum teres)"
+        ],
+        [
+          "E",
+          "Portal vein"
+        ]
+      ],
+      "answer": "D — Round ligament (ligamentum teres)\n\nOn the visceral surface, the quadrate lobe is separated from the left lobe by the fissure containing the round ligament (ligamentum teres).",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 12 · source PDF page 8",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-13",
+      "category": "topic-04",
+      "prompt": "The right lung:",
+      "original_prompt": "The right lung:",
+      "options": [
+        [
+          "A",
+          "Has an impression of the azygos arch on its medial surface"
+        ],
+        [
+          "B",
+          "Has a horizontal fissure separating the lower from the middle lobe"
+        ],
+        [
+          "C",
+          "Is in contact with the pericardium overlying the right ventricle"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "A — Has an impression of the azygos arch on its medial surface\n\nThe right lung has a groove/impression for the arch of the azygos vein. Its horizontal fissure separates upper from middle lobe, and its major cardiac impression is related to the right atrium.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 13 · source PDF page 8",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: E18-12. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-14",
+      "category": "topic-27",
+      "prompt": "The nerve supplying the facial muscles innervates also the following muscle:",
+      "original_prompt": "The nerve supplying the facial muscles innervates also the following muscle:",
+      "options": [
+        [
+          "A",
+          "Stylohyoid"
+        ],
+        [
+          "B",
+          "Levator palpebrae superioris"
+        ],
+        [
+          "C",
+          "Levator veli palatini"
+        ],
+        [
+          "D",
+          "Anterior belly of digastric"
+        ],
+        [
+          "E",
+          "Inferior belly of omohyoid"
+        ]
+      ],
+      "answer": "A — Stylohyoid\n\nThe facial nerve supplies the muscles of facial expression and also the stylohyoid, posterior belly of digastric and stapedius.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 14 · source PDF page 9",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-09. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-15",
+      "category": "topic-41",
+      "prompt": "Which of the following nerves is responsible for carrying the sensation of pain from the laryngeal vestibule?",
+      "original_prompt": "Which of the following nerves is responsible for carrying the sensation of pain from the laryngeal vestibule?",
+      "options": [
+        [
+          "A",
+          "Recurrent laryngeal nerve"
+        ],
+        [
+          "B",
+          "Superior laryngeal nerve"
+        ],
+        [
+          "C",
+          "Spinal accessory nerve"
+        ],
+        [
+          "D",
+          "Hypoglossal nerve"
+        ],
+        [
+          "E",
+          "Glossopharyngeal nerve"
+        ]
+      ],
+      "answer": "B — Superior laryngeal nerve\n\nSensation from the laryngeal mucosa above the vocal folds, including the vestibule, is carried mainly by the internal branch of the superior laryngeal nerve.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 15 · source PDF page 9",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-08. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-16",
+      "category": "topic-27",
+      "prompt": "The neurons providing the sensation of taste in the anterior 2/3 of the tongue are found in which of the following?",
+      "original_prompt": "The neurons providing the sensation of taste in the anterior 2/3 of the tongue are found in which of the following?",
+      "options": [
+        [
+          "A",
+          "Geniculate ganglion"
+        ],
+        [
+          "B",
+          "Pterygopalatine ganglion"
+        ],
+        [
+          "C",
+          "Submandibular ganglion"
+        ],
+        [
+          "D",
+          "Otic ganglion"
+        ],
+        [
+          "E",
+          "Trigeminal ganglion"
+        ]
+      ],
+      "answer": "A — Geniculate ganglion\n\nTaste from the anterior two-thirds of the tongue travels in the chorda tympani; the primary sensory neuron cell bodies are in the geniculate ganglion.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 16 · source PDF page 10",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-07. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-17",
+      "category": "topic-37",
+      "prompt": "Which of the following drains into the inferior meatus of the nasal cavity?",
+      "original_prompt": "Which of the following drains into the inferior meatus of the nasal cavity?",
+      "options": [
+        [
+          "A",
+          "Frontal sinus"
+        ],
+        [
+          "B",
+          "Ethmoid sinus"
+        ],
+        [
+          "C",
+          "Sphenoid sinus"
+        ],
+        [
+          "D",
+          "Nasolacrimal duct"
+        ],
+        [
+          "E",
+          "Maxillary sinus"
+        ]
+      ],
+      "answer": "D — Nasolacrimal duct\n\nThe nasolacrimal duct opens into the inferior nasal meatus.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 17 · source PDF page 10",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-18",
+      "category": "topic-47",
+      "prompt": "In the thorax, the right vagus:",
+      "original_prompt": "In the thorax, the right vagus:",
+      "options": [
+        [
+          "A",
+          "Lies anterior to the root of the lung"
+        ],
+        [
+          "B",
+          "Gives rise to the right recurrent laryngeal nerve"
+        ],
+        [
+          "C",
+          "Contributes to the formation of the oesophageal plexus"
+        ],
+        [
+          "D",
+          "A + B"
+        ],
+        [
+          "E",
+          "A + B + C"
+        ]
+      ],
+      "answer": "C — Contributes to the formation of the oesophageal plexus\n\nIn the thorax the right vagus passes posterior to the lung root and contributes to the oesophageal plexus. The right recurrent laryngeal nerve hooks around the right subclavian artery near the thoracic inlet/root of the neck.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 18 · source PDF page 11",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-04. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-19",
+      "category": "topic-12",
+      "prompt": "Which of the following statements concerning antral ovarian follicles is true?",
+      "original_prompt": "Which of the following statements concerning antral ovarian follicles is true?",
+      "options": [
+        [
+          "A",
+          "Their continued maturation requires FSH"
+        ],
+        [
+          "B",
+          "They lack liquor folliculi"
+        ],
+        [
+          "C",
+          "They contain a secondary oocyte"
+        ],
+        [
+          "D",
+          "They lack a theca externa"
+        ],
+        [
+          "E",
+          "They have a single layer of cuboidal follicular cells surrounding the oocyte"
+        ]
+      ],
+      "answer": "A — Their continued maturation requires FSH\n\nAntral follicle growth and continued maturation depend on FSH. Antral follicles contain liquor folliculi, multiple granulosa layers and theca interna/externa.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 19 · source PDF page 11",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-20",
+      "category": "topic-44",
+      "prompt": "Nerve terminals that synapse in the adrenal medulla utilize which neurotransmitter?",
+      "original_prompt": "Nerve terminals that synapse in the adrenal medulla utilize which neurotransmitter?",
+      "options": [
+        [
+          "A",
+          "Acetylcholine"
+        ],
+        [
+          "B",
+          "Adrenaline"
+        ],
+        [
+          "C",
+          "Noradrenaline"
+        ],
+        [
+          "D",
+          "GABA"
+        ],
+        [
+          "E",
+          "Dopamine"
+        ]
+      ],
+      "answer": "A — Acetylcholine\n\nPreganglionic sympathetic fibres synapsing on adrenal medullary chromaffin cells release acetylcholine.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 20 · source PDF page 12",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-21",
+      "category": "topic-49",
+      "prompt": "Which of the following statements concerning the basal nuclei is true?",
+      "original_prompt": "Which of the following statements concerning the basal nuclei is true?",
+      "options": [
+        [
+          "A",
+          "The caudate nucleus is not connected to the lentiform nucleus"
+        ],
+        [
+          "B",
+          "The corpus striatum receives fibers from the compact part of the substantia nigra"
+        ],
+        [
+          "C",
+          "The lentiform nucleus is separated from the thalamus by the external capsule"
+        ],
+        [
+          "D",
+          "The lentiform nucleus is separated from the claustrum by the internal capsule"
+        ],
+        [
+          "E",
+          "The tail of the caudate nucleus lies in the occipital lobe"
+        ]
+      ],
+      "answer": "B — The corpus striatum receives fibers from the compact part of the substantia nigra\n\nThe striatum receives the nigrostriatal dopaminergic projection from substantia nigra pars compacta.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 21 · source PDF page 12",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: M17-15. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-22",
+      "category": "topic-17",
+      "prompt": "The fovea of the retina contains:",
+      "original_prompt": "The fovea of the retina contains:",
+      "options": [
+        [
+          "A",
+          "Rods as photoreceptors and blood vessels"
+        ],
+        [
+          "B",
+          "Cones as photoreceptors and no blood vessels"
+        ],
+        [
+          "C",
+          "Cones as photoreceptors and blood vessels"
+        ],
+        [
+          "D",
+          "Rods and cones but no blood vessels"
+        ],
+        [
+          "E",
+          "Rods and cones and blood vessels"
+        ]
+      ],
+      "answer": "B — Cones as photoreceptors and no blood vessels\n\nThe fovea is specialized for high-acuity vision: it contains cones and is avascular.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 22 · source PDF page 13",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: E19-07. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-23",
+      "category": "topic-48",
+      "prompt": "Which of the following statements regarding the cerebral cortex is true?",
+      "original_prompt": "Which of the following statements regarding the cerebral cortex is true?",
+      "options": [
+        [
+          "A",
+          "The primary motor cortex lies in the frontal lobe"
+        ],
+        [
+          "B",
+          "The primary somatosensory cortex lies in the frontal lobe"
+        ],
+        [
+          "C",
+          "The primary auditory cortex lies in the parietal lobe"
+        ],
+        [
+          "D",
+          "The primary visual cortex lies in the frontal lobe"
+        ],
+        [
+          "E",
+          "Broca's speech area lies in the parietal lobe"
+        ]
+      ],
+      "answer": "A — The primary motor cortex lies in the frontal lobe\n\nThe primary motor cortex is the precentral gyrus of the frontal lobe.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 23 · source PDF page 13",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: E18-18. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-24",
+      "category": "topic-04",
+      "prompt": "Which of the following statements accurately describes relations at the left lung hilum?",
+      "original_prompt": "Which of the following statements accurately describes relations at the left lung hilum?",
+      "options": [
+        [
+          "A",
+          "The left pulmonary artery is the most anterior structure"
+        ],
+        [
+          "B",
+          "The left bronchus passes under the aortic arch"
+        ],
+        [
+          "C",
+          "The left vagus nerve passes anterior to the hilum"
+        ],
+        [
+          "D",
+          "Pulmonary veins are posterior and inferior"
+        ],
+        [
+          "E",
+          "The left recurrent laryngeal nerve loops around the left pulmonary artery"
+        ]
+      ],
+      "answer": "B — The left bronchus passes under the aortic arch\n\nAt the left hilum the pulmonary artery lies superior to the bronchus, and the left main bronchus passes beneath the aortic arch. The vagus is posterior to the root and pulmonary veins are mainly anterior/inferior.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 24 · source PDF page 14",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: M17-12. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-25",
+      "category": "topic-32",
+      "prompt": "Which of the following statements best describes the uterine cervix?",
+      "original_prompt": "Which of the following statements best describes the uterine cervix?",
+      "options": [
+        [
+          "A",
+          "In a normally anteflexed uterus, the cervix is tilted posteriorly"
+        ],
+        [
+          "B",
+          "It makes up the inferior third of the uterus"
+        ],
+        [
+          "C",
+          "Vaginal fornices surround its supravaginal part"
+        ],
+        [
+          "D",
+          "It is the attachment site for the round ligament"
+        ],
+        [
+          "E",
+          "It communicates with the uterine cavity through the external os"
+        ]
+      ],
+      "answer": "B — It makes up the inferior third of the uterus\n\nThe cervix forms the lower third of the uterus. The vaginal fornices surround its vaginal part, and the uterine cavity communicates with the cervical canal through the internal os.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 25 · source PDF page 14",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: M17-06. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-26",
+      "category": "topic-51",
+      "prompt": "Regarding the ventricular system and cerebrospinal fluid (CSF) production, which of the following statements is true?",
+      "original_prompt": "Regarding the ventricular system and cerebrospinal fluid (CSF) production, which of the following statements is true?",
+      "options": [
+        [
+          "A",
+          "CSF is exclusively produced in the choroid plexi of the lateral ventricles"
+        ],
+        [
+          "B",
+          "CSF passes from the 3rd to the 4th ventricle via the interventricular foramen"
+        ],
+        [
+          "C",
+          "The 4th ventricle communicates directly with the subarachnoid space"
+        ],
+        [
+          "D",
+          "The total daily production of CSF is approximately 150 ml"
+        ],
+        [
+          "E",
+          "CSF is reabsorbed mainly through the arachnoid villi in the inferior sagittal sinus"
+        ]
+      ],
+      "answer": "C — The 4th ventricle communicates directly with the subarachnoid space\n\nThe fourth ventricle communicates directly with the subarachnoid space through the median and lateral apertures. CSF production is roughly 500 mL/day and reabsorption is mainly via arachnoid granulations into dural venous sinuses, especially the superior sagittal sinus.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 26 · source PDF page 15",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-27",
+      "category": "topic-09",
+      "prompt": "Which statement about the tracts of the spinal cord is accurate?",
+      "original_prompt": "Which statement about the tracts of the spinal cord is accurate?",
+      "options": [
+        [
+          "A",
+          "The majority of motor fibers descend in the anterior column of the cord"
+        ],
+        [
+          "B",
+          "The spinothalamic tract subserves pain sensation"
+        ],
+        [
+          "C",
+          "The gracile tract lies lateral to the cuneate tract"
+        ],
+        [
+          "D",
+          "The spinothalamic tract carries first-order sensory neurones"
+        ],
+        [
+          "E",
+          "The dorsal columns carry decussated fibers"
+        ]
+      ],
+      "answer": "B — The spinothalamic tract subserves pain sensation\n\nThe spinothalamic system carries pain and temperature. Its ascending fibres are second-order neurons after crossing in the spinal cord.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 27 · source PDF page 15",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-02. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-28",
+      "category": "topic-02",
+      "prompt": "Which of the following statements accurately describes the relations of the ureter?",
+      "original_prompt": "Which of the following statements accurately describes the relations of the ureter?",
+      "options": [
+        [
+          "A",
+          "It is crossed anteriorly by the gonadal vessels"
+        ],
+        [
+          "B",
+          "It crosses the brim of the pelvis at the bifurcation of the common iliac artery"
+        ],
+        [
+          "C",
+          "In females it passes under the uterine artery close to the cervix"
+        ],
+        [
+          "D",
+          "It enters the bladder at the posterolateral aspect of the trigone"
+        ],
+        [
+          "E",
+          "All of the above are correct"
+        ]
+      ],
+      "answer": "E — All of the above are correct\n\nAll listed relations are standard: gonadal vessels cross anteriorly, the ureter crosses the pelvic brim near the common iliac bifurcation, passes under the uterine artery near the cervix, and enters the bladder at a posterolateral angle of the trigone.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 28 · source PDF page 16",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: M17-05. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-29",
+      "category": "topic-01",
+      "prompt": "Which of the following statements concerning the structure of medullary rays in the kidney is true?",
+      "original_prompt": "Which of the following statements concerning the structure of medullary rays in the kidney is true?",
+      "options": [
+        [
+          "A",
+          "They contain juxtaglomerular cells"
+        ],
+        [
+          "B",
+          "They contain proximal convoluted tubules"
+        ],
+        [
+          "C",
+          "They do not extend into the renal cortex"
+        ],
+        [
+          "D",
+          "They lie at the center of a renal lobule"
+        ],
+        [
+          "E",
+          "They contain thin limbs of the loops of Henle"
+        ]
+      ],
+      "answer": "D — They lie at the center of a renal lobule\n\nA renal lobule is centered on a medullary ray. Medullary rays contain straight tubules and collecting ducts extending into the cortex, not renal corpuscles or convoluted tubules.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 29 · source PDF page 16",
+      "notes": [
+        "Source note: Addition type: MCQ VARIANT. Related existing question: F17-27. Kept because the MCQ options or question format differ materially. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    },
+    {
+      "id": "MCQ-30",
+      "category": "topic-29",
+      "prompt": "Which statement about the substantia nigra is accurate?",
+      "original_prompt": "Which statement about the substantia nigra is accurate?",
+      "options": [
+        [
+          "A",
+          "The ventral part consists of pigmented neurons that contain neuromelanin granules"
+        ],
+        [
+          "B",
+          "The dorsal part contains mostly GABAergic neurons"
+        ],
+        [
+          "C",
+          "It is subdivided into a dorsal pars compacta and a ventral pars reticulata"
+        ],
+        [
+          "D",
+          "The ventral part contains mostly dopaminergic neurons"
+        ],
+        [
+          "E",
+          "All of the above"
+        ]
+      ],
+      "answer": "C — It is subdivided into a dorsal pars compacta and a ventral pars reticulata\n\nThe substantia nigra is divided into a dorsal pars compacta and ventral pars reticulata. Pars compacta contains pigmented dopaminergic neurons; pars reticulata is predominantly GABAergic.",
+      "status": "STUDY ANSWER",
+      "source": "anatomy_mcq_answers.pdf · question 30 · source PDF page 17",
+      "notes": [
+        "Source note: Addition type: NEW COVERAGE. Answer and rationale supplied in anatomy_mcq_answers.pdf; not an independently validated exam key."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "frequency",
+      "title": "Most Frequently Tested Topics",
+      "paragraphs": [
+        "Counts describe retained archive occurrences, not future examination probabilities. Repeated exam questions and source versions remain separate occurrences."
+      ],
+      "table": [
+        [
+          "Category",
+          "Occurrences"
+        ],
+        [
+          "Spinal Cord and Ascending/Descending Pathways",
+          "12"
+        ],
+        [
+          "Facial Nerve (CN VII)",
+          "12"
+        ],
+        [
+          "Testis",
+          "10"
+        ],
+        [
+          "Adrenal/Suprarenal Gland",
+          "8"
+        ],
+        [
+          "Visual System",
+          "7"
+        ],
+        [
+          "Autonomic Nervous System",
+          "7"
+        ],
+        [
+          "Cerebral Cortex/Brain",
+          "7"
+        ],
+        [
+          "Kidney",
+          "6"
+        ],
+        [
+          "Lung",
+          "6"
+        ],
+        [
+          "Liver",
+          "6"
+        ]
+      ]
+    },
+    {
+      "id": "depth",
+      "title": "Pattern of Question Depth",
+      "paragraphs": [
+        "Questions range from identification to structured explanations: name a nucleus, layer, hormone, nerve or artery; describe anatomical relations or a pathway; connect a lesion or vascular injury with its effects."
+      ]
+    },
+    {
+      "id": "style",
+      "title": "Pattern of Question Style",
+      "paragraphs": [
+        "Common formats include correct-statement MCQs, negative questions, A+B combinations, recall prompts and figure-label matching. Missing figures and incomplete options remain explicitly marked."
+      ]
+    },
+    {
+      "id": "priority",
+      "title": "Suggested Study Priority",
+      "paragraphs": [
+        "Begin with high-count topics, then review connected pathways and organ relations. Practise nerve function, ganglion and target together; trace sensory and motor routes; compare organ coverings, vessels and histology. Review every remaining category. Archive absence does not establish that a topic is unimportant."
+      ]
+    },
+    {
+      "id": "intake",
+      "title": "MCQ Intake Review",
+      "paragraphs": [
+        "Compared all 30 questions in anatomy_mcq_answers.pdf against the original 179 entries. Three equivalent duplicates were skipped (incoming 2, 4, 11); 27 MCQs were added: 7 new tested details and 20 variants with different options or an MCQ form of an existing recall prompt.",
+        "Matching considers the tested proposition and full option set, not just topic or correct answer. A+B combinations must be expanded when option order changes. The right-vagus question was retained because its A+B combination includes different statements.",
+        "Incoming question 5 has an invisible option E. Its source limitation is preserved. Imported answers are supplied study answers, not independently confirmed official exam keys."
+      ]
+    },
+    {
+      "id": "taxonomy",
+      "title": "Category Revision",
+      "paragraphs": [
+        "The original 42 categories retain their relative order. Fourteen specific categories were inserted beside related subjects, creating 56 categories. The original miscellaneous supplement is fully classified."
+      ]
+    },
+    {
+      "id": "audit",
+      "title": "Completeness & Answer Audit",
+      "paragraphs": [
+        "All 206 question entries are preserved: 179 original occurrences and 27 imported MCQs. Provenance: 60 SOURCE KEY, 142 STUDY ANSWER, 2 SOURCE RECALL, 2 UNRESOLVED.",
+        "The supplied answers are not independently medically fact-checked. Missing figures and under-specified choices remain unresolved rather than reconstructed."
+      ]
+    }
+  ]
+}

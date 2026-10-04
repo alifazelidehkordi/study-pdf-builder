@@ -1,0 +1,66 @@
+{
+  "title": "My Study Guide",
+  "subtitle": "Answered Revision Handbook",
+  "description": "Replace these example categories and questions with your own content.",
+  "categories": [
+    {
+      "id": "core",
+      "title": "Core Concepts",
+      "related": [
+        "applied"
+      ]
+    },
+    {
+      "id": "applied",
+      "title": "Applied Questions",
+      "related": [
+        "core"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "DEMO-01",
+      "category": "core",
+      "prompt": "Which value is the sum of 2 and 2?",
+      "options": [
+        [
+          "A",
+          "3"
+        ],
+        [
+          "B",
+          "4"
+        ],
+        [
+          "C",
+          "5"
+        ]
+      ],
+      "answer": "B — 4",
+      "status": "STUDY ANSWER",
+      "source": "Illustrative example, not exam material",
+      "notes": [
+        "This is intentionally simple example content, not a claim about any real exam."
+      ]
+    },
+    {
+      "id": "DEMO-02",
+      "category": "applied",
+      "prompt": "Explain how you would verify a calculation.",
+      "options": [],
+      "answer": "Check the inputs, calculate the result, and compare it against an independent method.",
+      "status": "STUDY ANSWER",
+      "source": "Illustrative example"
+    }
+  ],
+  "sections": [
+    {
+      "id": "plan",
+      "title": "Study Plan",
+      "paragraphs": [
+        "Replace this paragraph with your revision plan."
+      ]
+    }
+  ]
+}

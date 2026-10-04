@@ -1,0 +1,253 @@
+{
+  "topic_count": 56,
+  "new_categories": [
+    {
+      "number": 2,
+      "name": "Ureter"
+    },
+    {
+      "number": 5,
+      "name": "Pleura"
+    },
+    {
+      "number": 6,
+      "name": "Breast and Axillary Lymphatics"
+    },
+    {
+      "number": 18,
+      "name": "Oculomotor Nerve (CN III)"
+    },
+    {
+      "number": 21,
+      "name": "Large Intestine/Colon"
+    },
+    {
+      "number": 22,
+      "name": "Rectum"
+    },
+    {
+      "number": 31,
+      "name": "Abdominal Topography and Transpyloric Plane"
+    },
+    {
+      "number": 33,
+      "name": "Perineal Membrane and Perineal Pouches"
+    },
+    {
+      "number": 35,
+      "name": "Parotid Gland and Duct"
+    },
+    {
+      "number": 36,
+      "name": "Tongue and Lingual Lymphatics"
+    },
+    {
+      "number": 37,
+      "name": "Nasal Cavity and Paranasal Sinuses"
+    },
+    {
+      "number": 49,
+      "name": "Basal Ganglia and Striatal Connections"
+    },
+    {
+      "number": 51,
+      "name": "Ventricular System"
+    },
+    {
+      "number": 53,
+      "name": "Extrahepatic Biliary System"
+    }
+  ],
+  "reclassified_count": 29,
+  "moves": [
+    {
+      "id": "M17-15",
+      "from": "Supplement",
+      "to": "Basal Ganglia and Striatal Connections"
+    },
+    {
+      "id": "E19-14",
+      "from": "CSF",
+      "to": "Ventricular System"
+    },
+    {
+      "id": "F17-03",
+      "from": "Visual System",
+      "to": "Oculomotor Nerve (CN III)"
+    },
+    {
+      "id": "E18-24",
+      "from": "Visual System",
+      "to": "Oculomotor Nerve (CN III)"
+    },
+    {
+      "id": "E19-24",
+      "from": "Visual System",
+      "to": "Oculomotor Nerve (CN III)"
+    },
+    {
+      "id": "M17-01",
+      "from": "Supplement",
+      "to": "Parotid Gland and Duct"
+    },
+    {
+      "id": "M17-02",
+      "from": "Supplement",
+      "to": "Tongue and Lingual Lymphatics"
+    },
+    {
+      "id": "A8D-03",
+      "from": "Supplement",
+      "to": "Parotid Gland and Duct"
+    },
+    {
+      "id": "A8D-12",
+      "from": "Supplement",
+      "to": "Nasal Cavity and Paranasal Sinuses"
+    },
+    {
+      "id": "A8R-03",
+      "from": "Supplement",
+      "to": "Parotid Gland and Duct"
+    },
+    {
+      "id": "A8R-12",
+      "from": "Supplement",
+      "to": "Nasal Cavity and Paranasal Sinuses"
+    },
+    {
+      "id": "M17-03",
+      "from": "Lung",
+      "to": "Breast and Axillary Lymphatics"
+    },
+    {
+      "id": "M17-22",
+      "from": "Lung",
+      "to": "Pleura"
+    },
+    {
+      "id": "F17-16",
+      "from": "Supplement",
+      "to": "Large Intestine/Colon"
+    },
+    {
+      "id": "M17-11",
+      "from": "Supplement",
+      "to": "Large Intestine/Colon"
+    },
+    {
+      "id": "E18-29",
+      "from": "Supplement",
+      "to": "Large Intestine/Colon"
+    },
+    {
+      "id": "A8D-07",
+      "from": "Supplement",
+      "to": "Large Intestine/Colon"
+    },
+    {
+      "id": "A8R-07",
+      "from": "Supplement",
+      "to": "Large Intestine/Colon"
+    },
+    {
+      "id": "A8D-06",
+      "from": "Peritoneum",
+      "to": "Abdominal Topography and Transpyloric Plane"
+    },
+    {
+      "id": "A8R-06",
+      "from": "Peritoneum",
+      "to": "Abdominal Topography and Transpyloric Plane"
+    },
+    {
+      "id": "E19-27",
+      "from": "Gallbladder",
+      "to": "Extrahepatic Biliary System"
+    },
+    {
+      "id": "F17-24",
+      "from": "Kidney",
+      "to": "Ureter"
+    },
+    {
+      "id": "M17-05",
+      "from": "Kidney",
+      "to": "Ureter"
+    },
+    {
+      "id": "E18-13",
+      "from": "Kidney",
+      "to": "Ureter"
+    },
+    {
+      "id": "E19-22",
+      "from": "Kidney",
+      "to": "Ureter"
+    },
+    {
+      "id": "M17-07",
+      "from": "Supplement",
+      "to": "Perineal Membrane and Perineal Pouches"
+    },
+    {
+      "id": "E19-19",
+      "from": "Supplement",
+      "to": "Rectum"
+    },
+    {
+      "id": "A8D-02",
+      "from": "Supplement",
+      "to": "Perineal Membrane and Perineal Pouches"
+    },
+    {
+      "id": "A8R-02",
+      "from": "Supplement",
+      "to": "Perineal Membrane and Perineal Pouches"
+    }
+  ],
+  "original_to_new": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 7,
+    "5": 8,
+    "6": 9,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 14,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 19,
+    "16": 20,
+    "17": 23,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 27,
+    "22": 28,
+    "23": 29,
+    "24": 30,
+    "25": 32,
+    "26": 34,
+    "27": 38,
+    "28": 39,
+    "29": 40,
+    "30": 41,
+    "31": 42,
+    "32": 43,
+    "33": 44,
+    "34": 45,
+    "35": 46,
+    "36": 47,
+    "37": 48,
+    "38": 50,
+    "39": 52,
+    "40": 54,
+    "41": 55,
+    "42": 56
+  }
+}
