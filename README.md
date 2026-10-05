@@ -1,102 +1,197 @@
 # Study PDF Builder
 
-A reusable, local Python renderer adapted from the code used to make your linked study guide. It produces designed question-bank PDFs from structured JSON, with no API key, network request, or LLM required.
+Turn a structured JSON question bank into a navigable study-guide PDF, a Markdown companion, and a machine-readable verification audit. Use it for course revision, certification practice, or any other text-based question bank—not just the bundled anatomy example.
 
-The bundled `examples/anatomy.json` reproduces the **content** of the final 206-question, 56-category bank. The portable renderer uses the same visual settings, but pagination can change because it is no longer hardcoded to one document.
+The renderer runs locally with Python. Building and testing require no API key, GitHub credentials, network request, or LLM once dependencies are installed. You supply the questions, answers, categories, and source references; the tool handles layout and navigation.
+
+[Quick start](#quick-start) · [Create your own bank](#create-a-bank-for-your-own-subject) · [Verification](#verification-and-limits) · [Troubleshooting](#troubleshooting)
+
+## What it does—and does not do
+
+- Renders multiple-choice and free-response questions with answers, source references, and provenance labels.
+- Adds a cover, clickable contents, landscape topic overviews, bookmarks, related-topic links, and return-to-contents links.
+- Paginates long questions and optional study-plan sections automatically; preserves source IDs while adding display numbering.
+- Uses bundled Inter fonts and a fixed navy/teal/gold A4 layout.
+- Checks selected text preservation and PDF navigation before writing outputs.
+
+**It does not extract questions from PDFs, perform OCR, generate or fact-check answers, classify questions, or deduplicate a bank.** Prepare and review the JSON yourself or with a separate workflow. There is no GUI or configurable theme CLI.
 
 ## Quick start
 
-Use Python 3.11 or newer from the repository root:
+### 1. Get the code and install dependencies
+
+Use Python **3.11 or newer**, Git, and a terminal. Clone into a working directory, then run installation and CLI commands from the repository root. Access to this repository is required to clone it; an existing checkout or downloaded archive also works.
 
 ```bash
+git clone https://github.com/alifazelidehkordi/study-pdf-builder.git
+cd study-pdf-builder
 python -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-python -m studypdf validate examples/demo.json
-python -m studypdf build examples/demo.json --output output/demo.pdf
-python -m studypdf build examples/anatomy.json --output output/anatomy.pdf
 ```
 
-On Windows, activate with `.venv\Scripts\activate` instead of `source .venv/bin/activate`. If your executable is named `python3`, substitute that for `python`.
+Activate the environment on **macOS / Linux**:
 
-Each build writes a PDF, a matching Markdown companion, and a JSON verification audit beside the PDF. Generated outputs are ignored by Git.
+```bash
+source .venv/bin/activate
+```
 
-## Make a similar PDF
+On **Windows PowerShell**:
 
-1. Copy `examples/demo.json` to a new JSON file.
-2. Set the document title, subtitle and description.
-3. Replace the categories, in the order you want them to appear.
-4. Add your questions with stable IDs and the appropriate category IDs.
-5. Validate and build using the commands above.
-6. Inspect the PDF before using or sharing it; the layout audit is not a medical or factual review.
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
 
-### Minimal input
+On **Windows Command Prompt**:
+
+```bat
+.venv\Scripts\activate.bat
+```
+
+Then install the pinned build dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+If your Python executable is named `python3`, use it to create the environment. Keep the checkout together: `studypdf.py` loads fonts from `assets/fonts/` beside it. This is a repository-based CLI, not a package installed by `pip install studypdf`.
+
+### 2. Build the included demo
+
+```bash
+python -m studypdf validate examples/demo.json
+python -m studypdf build examples/demo.json --output output/demo.pdf
+```
+
+Both commands print JSON to the terminal. Validation reports `"valid": true` and input counts; a successful build reports `"verified": true`, page counts, and audit details. Successful commands exit 0. Handled input/build errors print `studypdf:` to stderr and exit 1; invalid command-line arguments print usage information and exit 2.
+
+Open `output/demo.pdf` in a PDF viewer. The build creates its output directory and writes:
+
+| File | Purpose |
+| --- | --- |
+| `output/demo.pdf` | Linked study guide for reading or printing |
+| `output/demo.md` | Text companion with questions, answers, sources, and category page references |
+| `output/demo.audit.json` | Counts, one-based PDF page mappings, navigation records, and verification results |
+
+**Reusing an output path overwrites all three matching files.** Use a different filename to keep an earlier build.
+
+## Create a bank for your own subject
+
+1. Copy [`examples/demo.json`](examples/demo.json) to `my-bank.json` in the repository root using your editor or file manager.
+2. Change the title, subtitle, and short cover description.
+3. Replace the categories and questions with your own material. Category array order controls topic order; questions retain their input order within each category.
+4. Use globally unique IDs across categories, questions, and optional sections. Every question's `category` and each `related` reference must match an existing category ID.
+5. Run:
+
+   ```bash
+   python -m studypdf validate my-bank.json
+   python -m studypdf build my-bank.json --output output/my-guide.pdf
+   ```
+
+6. Inspect the PDF's layout and review the source content before sharing it. Re-run validation and build after each edit; no previous build or anatomy data is needed.
+
+### Minimal complete input
+
+Save this as `my-bank.json` to try a single-topic bank:
 
 ```json
 {
-  "title": "My Subject",
-  "subtitle": "Answered Study Guide",
-  "description": "Revision questions organized by topic.",
+  "title": "Project Management Revision",
+  "subtitle": "Practice questions with explanations",
+  "description": "A small example bank. Replace it with your own reviewed material.",
   "categories": [
-    {"id": "topic-a", "title": "Topic A", "related": []}
+    {"id": "risk", "title": "Risk Management", "related": []}
   ],
   "questions": [
     {
-      "id": "EXAM-01",
-      "category": "topic-a",
-      "prompt": "Write your question here.",
-      "options": [["A", "First option"], ["B", "Second option"]],
-      "answer": "B — Second option. Explain why here.",
+      "id": "PM-001",
+      "category": "risk",
+      "prompt": "What is the purpose of a risk register?",
+      "options": [],
+      "answer": "To record identified risks and track their assessment, responses, and ownership.",
       "status": "STUDY ANSWER",
-      "source": "Your original source and question number",
-      "notes": ["Any missing information or provenance caveat."]
+      "source": "Illustrative example; not an official exam question"
     }
-  ],
-  "sections": []
+  ]
 }
 ```
 
-Free-response questions use `"options": []`. Use `original_prompt` to preserve wording when you rewrite a prompt. Optional category fields are `note` and `empty_note`; optional planning sections have `id`, `title`, `paragraphs`, and an optional `table` of rows/cells. See [the input guide](docs/input-format.md).
+For multiple-choice questions, use pairs such as `"options": [["A", "First choice"], ["B", "Second choice"]]`. For free response, use `"options": []`. Answers are literal text: the renderer does not resolve an answer letter to an option or check that they agree.
 
-## Design and navigation
+The top-level `title`, `subtitle`, `description`, `categories`, and `questions` fields are required. Categories and questions must each contain at least one entry, but individual categories may be empty. Each question requires `id`, `category`, `prompt`, `options`, `answer`, `status`, and `source`. `sections`, question `notes` / `original_prompt`, and category `related` / `note` / `empty_note` are optional. In the PDF, input strings are rendered as literal text, not Markdown or HTML. The Markdown companion retains supplied markup, which a Markdown viewer may interpret as formatting or HTML.
 
-- Bundled Inter Regular, Medium, Semibold and Bold fonts.
-- Navy/teal/gold palette and gradient cover.
-- A4 portrait revision pages and landscape overview pages.
-- 21.5 pt topic headings, 12 pt card headings, 9.25 pt body text, 7.2 pt labels.
-- Rounded question cards, answer panels and explicit answer provenance.
-- Dynamic pagination; clickable contents and overview rows; bookmarks; related-topic links; return-to-contents links.
-- Automatic category/item numbering without changing your source question IDs.
+See the [JSON input reference](docs/input-format.md) for category links, preserved original wording, and optional sections with tables.
 
-## Importing other PDFs
+### Answer provenance
 
-**This is a JSON-to-PDF builder, not an automatic arbitrary-PDF parser or medical answer generator.** PDF layouts vary, and the original extraction/classification/deduplication required review. Extract another PDF to structured records, check all choices and answer letters, assign categories, then build.
+Set `status` to exactly one of these values:
 
-The anatomy example includes the complete import decision log from this session:
+| Status | Intended meaning |
+| --- | --- |
+| `SOURCE KEY` | Answer supplied by the original source's key; not a guarantee of correctness |
+| `STUDY ANSWER` | Study/review answer without independent validation |
+| `SOURCE RECALL` | Unverified recollection of a source answer |
+| `UNRESOLVED` | Insufficient information to establish an answer |
 
-- 30 incoming MCQs reviewed.
-- 3 equivalent duplicates skipped: incoming questions 2, 4 and 11.
-- 27 added: 7 new tested details and 20 different MCQ variants.
-- Existing answers and source keys were not overwritten.
+Use `source` and optional `notes` to record origins, uncertainty, missing figures, or editorial changes. These labels describe provenance; they do not certify an answer.
 
-`examples/anatomy-import-extracted.json` stores the extracted incoming questions, and `examples/anatomy-import-decisions.json` records every decision. `examples/anatomy-category-changes.json` records the earlier category expansion.
+## Verification and limits
 
-### Deduplication rule
+`validate` checks JSON structure, required types, unique IDs, category references, option-pair shape, allowed statuses, and rectangular section tables. It uses only the Python standard library and does **not** prove that the input can be rendered.
 
-A shared topic or correct answer does not make two questions duplicates. Compare the tested proposition **and all answer choices**, allowing harmless wording changes and reordering. Expand combined options (A+B) into their underlying statements before comparing; moving options can change what A+B means. Keep materially different distractors or new MCQ forms as variants if you want a question bank rather than a concept-only summary.
+`build` also checks font coverage and rendering constraints, then audits the generated PDF for primary question headings appearing exactly once, preserved prompt/option/answer text, contents and overview destinations, internal-link validity, and A4 orientations. Prompt/answer/option checks search whitespace-normalized text across the PDF; they do not prove placement within each question card or independently verify option labels. Audit page numbers are one-based and refer to physical PDF pages.
 
-## Tests
+A successful audit is **not** a complete visual inspection, a factual review, or proof that every source/notes/table field was checked for text preservation. Review the PDF yourself. The current input format is text-only: it has no image, figure, or equation-rendering fields. Characters missing from the bundled font cause an error rather than silent substitution. Page sizes, fonts, and colors are fixed in the renderer; changing them requires code changes.
+
+If you start with a source PDF, extract its content separately, review wording and all answer choices, assign stable IDs and categories, and record provenance before rendering. Any classification or duplicate-removal decisions belong to that preparation workflow, not to this CLI.
+
+## Troubleshooting
+
+| Symptom | What to check |
+| --- | --- |
+| `No module named studypdf` | Run from the repository root, where `studypdf.py` lives. |
+| Missing `pymupdf` or `reportlab` | Activate the same environment you installed into, then run `python -m pip install -r requirements.txt`. |
+| Invalid JSON with a line/column | Fix JSON syntax: double-quoted strings, no comments, no trailing commas. Save as UTF-8. |
+| Duplicate ID or unknown category | Make IDs unique across all entry types and correct `category` / `related` references. |
+| Invalid status or option pair | Use an exact status above; each option must be a two-string array. |
+| `bundled Inter font lacks characters: U+…` | The font cannot render those characters. Use supported text, or adapt the renderer/fonts and test the result. Structural validation alone cannot detect this. |
+| Missing bundled font | Restore `assets/fonts/` from the checkout; do not move `studypdf.py` alone. |
+| Cover text or navigation title too long | Shorten the named title, subtitle, or description and rebuild. |
+| `--output must have a .pdf suffix` | Provide an output filename ending in `.pdf`. Quote paths containing spaces. |
+| PowerShell blocks activation | Skip activation and run `.\.venv\Scripts\python.exe` in place of `python` for installation and CLI commands. |
+
+## Examples and repository layout
+
+| Path | Role |
+| --- | --- |
+| [`studypdf.py`](studypdf.py) | Validation, rendering, verification, and CLI entry point |
+| [`requirements.txt`](requirements.txt) | Pinned build dependencies |
+| [`examples/demo.json`](examples/demo.json) | Small starter bank with MCQ, free response, related topics, and a study plan |
+| [`docs/input-format.md`](docs/input-format.md) | Detailed JSON contract |
+| [`tests/test_cli.py`](tests/test_cli.py) | Subprocess and PDF acceptance tests |
+| `assets/fonts/` | Bundled Inter font files and their license |
+| `examples/anatomy*.json` | Larger subject-specific bank and historical editorial records |
+
+The anatomy files are **optional examples, not prerequisites or a prescribed taxonomy**. To render the larger bank:
+
+```bash
+python -m studypdf build examples/anatomy.json --output output/anatomy.pdf
+```
+
+`anatomy-import-extracted.json`, `anatomy-import-decisions.json`, and `anatomy-category-changes.json` document one dataset's manual preparation. They are not renderer inputs or automatic import/deduplication features. The anatomy content has not been independently medically fact-checked.
+
+## Development and tests
+
+With dependencies installed, run from the repository root:
 
 ```bash
 python -m unittest discover -s tests -v
 ```
 
-Tests exercise real PDF generation and inspect the resulting PDFs, including navigation, category counts and text preservation. No GitHub credentials are required to build or test.
+Tests generate and inspect real PDFs, including large taxonomies, multi-page text and tables, literal-text preservation, navigation, and invalid-input errors. To contribute a change, include a reproducible example and run the suite; add a test when changing validation or rendering behavior. For a bug report, include the command, Python version, error text, and a minimal sanitized JSON bank—not confidential study material.
 
-## Provenance and privacy
+## Privacy and licensing
 
-`SOURCE KEY` means a key supplied by your source; it is not a guarantee the source is correct. `STUDY ANSWER` is a study/review answer that is not independently validated; `SOURCE RECALL` records an unverified recollection; `UNRESOLVED` marks insufficient source information. The anatomy content is preserved from supplied study materials and has not been independently medically fact-checked.
+Rendering is local; you control the input and generated files. PDFs and Markdown companions include supplied study content and source references, while audits include IDs and page mappings. Review all outputs before sharing them. The default `output/` directory is ignored by Git, as are `*.pdf` and `*.audit.json`. Markdown companions written elsewhere are not automatically ignored. **Ignore rules are not a privacy guarantee**: check `git status` and do not commit private banks, source documents, outputs, or credentials.
 
-The repository contains code, structured anatomy data, small examples and fonts. **Raw uploaded PDFs, photographs, access tokens and local credentials are not included.** Keep this repository private if you do not want the anatomy dataset shared.
+The bundled anatomy bank is study material, not permission to publish its underlying source content. Use only material you have permission to use and share; keep access restricted where appropriate.
 
-Inter font licensing is preserved in [`assets/fonts/OFL.txt`](assets/fonts/OFL.txt). Anatomy content provenance does not imply a grant of publication rights for the source exam materials.
+Inter's font license is included in [`assets/fonts/OFL.txt`](assets/fonts/OFL.txt). This checkout does not include a project-wide code license; the font license does not grant rights to the code or study datasets.
